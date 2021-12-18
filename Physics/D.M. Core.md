@@ -1,0 +1,9 @@
+[#Physics]
+
+## Summary
+
+A theoretical way of harnessing [Dark Matter](Dark%20Matter.md), however never put into practice. The experiments that were done on [Thiyotis](../Planets/Thiyotis.md) were unfortunately not successful, and resulted in a cataclysmic event ([Thiyotis Collapse](../Large%20Events/Thiyotis%20Collapse.md)) that ruined all current and future life on [Thiyotis](../Planets/Thiyotis.md) for millenia.
+
+## Potential outputs
+
+For every 1g of [Dark Matter](Dark%20Matter.md), the [D.M. Core](D.M.%20Core.md) could output around 
