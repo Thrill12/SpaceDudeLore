@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Gadgets/Components/Quantum Wave Drive.md",
+            "file": "Species/Flora/Glow Cane.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gadgets/Components/Quantum Wave Drive.md",
+                "file": "Species/Flora/Glow Cane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,8 +90,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,15 +98,15 @@
   },
   "active": "1159e45a51c57d67",
   "lastOpenFiles": [
-    "Gadgets/Components/Quantum Wave Drive.md",
-    "Physics/Quantum Wave.md",
+    "Species/Flora/Glow Cane.md",
+    "Species/Fauna/Kaia.md",
+    "Species/Fauna/Huross.md",
+    "Species/Fauna/Humans.md",
+    "Institutions/Interplanetary Botanical Association.md",
+    "Factions/DynastyRoses.md",
+    "Planets/Demeter.md",
     "Gadgets/Weapons/Energy/Polaroid Gun.md",
-    "Planets/Bograugantunatu.md",
-    "Planets/Cazion.md",
-    "Species/Huross.md",
-    "Planets/6AB9HJG.md",
-    "Planets/Pirth.md",
-    "README.md",
-    "Influential Persons/Dr. A. Lanipekun.md"
+    "Gadgets/Components/Quantum Wave Drive.md",
+    "Physics/Quantum Wave.md"
   ]
 }
