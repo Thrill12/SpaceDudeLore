@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Factions/The Union.md",
+            "file": "Influential Persons/Player.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/The Union.md",
+                "file": "Influential Persons/Player.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +114,7 @@
   },
   "active": "841128fbb4fa5b9d",
   "lastOpenFiles": [
+    "Influential Persons/Player.md",
     "Factions/The Union.md",
     "Factions/The Foundation.md",
     "Factions/Kaias.md",
@@ -122,7 +123,6 @@
     "Locations/Division of Classified Foundation Milestones.md",
     "Locations/Interplanetary Botanical Association.md",
     "Locations/The States.md",
-    "Locations/The Astro-Academy.md",
-    "Species/Fauna/Kaia.md"
+    "Locations/The Astro-Academy.md"
   ]
 }
