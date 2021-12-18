@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Planets/Bograugantunatu.md",
+            "file": "Gadgets/Components/Quantum Wave Drive.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planets/Bograugantunatu.md",
+                "file": "Gadgets/Components/Quantum Wave Drive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "1159e45a51c57d67",
   "lastOpenFiles": [
+    "Gadgets/Components/Quantum Wave Drive.md",
+    "Physics/Quantum Wave.md",
+    "Gadgets/Weapons/Energy/Polaroid Gun.md",
     "Planets/Bograugantunatu.md",
     "Planets/Cazion.md",
     "Species/Huross.md",
     "Planets/6AB9HJG.md",
     "Planets/Pirth.md",
     "README.md",
-    "Gadgets/Weapons/Energy/Polaroid Gun.md",
-    "Influential Persons/Dr. A. Lanipekun.md",
-    "Influential Persons/Dr S. Debreto.md",
-    "Large Events/The Dawn.md"
+    "Influential Persons/Dr. A. Lanipekun.md"
   ]
 }
