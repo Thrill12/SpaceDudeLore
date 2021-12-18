@@ -2,13 +2,13 @@
 
 ## Summary
 
-First originated on the planet [Bograugantunatu](./Bograugantunatu.md), they escaped and civilization across the galaxy was almost aware of their presence. However, hired contractors were paid immense sums of money to get rid of any proof of their existence to keep the people under control.
+First originated on the planet [[Bograugantunatu]], they escaped and civilization across the galaxy was almost aware of their presence. However, hired contractors were paid immense sums of money to get rid of any proof of their existence to keep the people under control.
 
-Due to thousands of contractors seeking them through the [Galaxy](Galaxy.md), they eventually became extinct, however some of their remnants persist in some places in the [Galaxy](Galaxy.md).
+Due to thousands of contractors seeking them through the [[Galaxy]], they eventually became extinct, however some of their remnants persist in some places in the [[Galaxy]].
 
 ## Description
 
-These humanoid species were first designed by [Dr S. Debreto](Dr%20S.%20Debreto.md), and were let loose as an aftermath of [The Dawn](The%20Dawn.md). [Dr S. Debreto](Dr%20S.%20Debreto.md) was somehow affected by [The Dawn](The%20Dawn.md) on a psychological level, something that was not noticed with anyone else in [[The Union]] space. This led to a chain of events that eventually released the [[Huross]] outside the lab, and they were quickly reproducing across the [[Galaxy]].
+These humanoid species were first designed by [[Dr S. Debreto]], and were let loose as an aftermath of [[The Dawn]]. [[Dr S. Debreto]] was somehow affected by [[The Dawn]] on a psychological level, something that was not noticed with anyone else in [[The Union]] space. This led to a chain of events that eventually released the [[Huross]] outside the lab, and they were quickly reproducing across the [[Galaxy]].
 
 The plasma in their blood is modified in such a way that the main component is [[Aspite]], which makes their blood shine blue.
 
