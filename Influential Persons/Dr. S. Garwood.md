@@ -6,7 +6,7 @@
 ### D.O.B: |27.03.2276|
 ### DEATH: |19.05.2343|
 ### SEX: |M|
-### CAUSE OF DEATH: |SHUTTLE ACCIDENT|
+### CAUSE OF DEATH: |GLOW CANE OVERDOSE|
 ### STATUS: |DEAD|
 
 
@@ -18,4 +18,4 @@ He unexpectedly lost contact with his closest friend, [Dr S. Debreto](Dr%20S.%20
 
 He lived a relatively quiet life after he found out that [The Union](../Factions/The%20Union.md) was farming [Huross](../Species/Fauna/Huross.md) for [Aspite](../Materials/Aspite.md) as he did not want to end up supposedly assassinated by [The Union](../Factions/The%20Union.md) agents like [Dr S. Debreto](Dr%20S.%20Debreto.md).
 
-He was also struggling with a mild [Glow Cane](../Species/Flora/Glow%20Cane.md) addiction, which prevented him from fully enjoying his last few years alive.
+He was also struggling with a severe [Glow Cane](../Species/Flora/Glow%20Cane.md) addiction, which ended up taking his life when he thought that taking more [Glow Cane](../Species/Flora/Glow%20Cane.md) would speed up time.
