@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Species/Flora/Glow Cane.md",
+            "file": "Factions/DynastyRoses.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Species/Flora/Glow Cane.md",
+                "file": "Factions/DynastyRoses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,12 +98,12 @@
   },
   "active": "1159e45a51c57d67",
   "lastOpenFiles": [
+    "Factions/DynastyRoses.md",
+    "Institutions/Interplanetary Botanical Association.md",
     "Species/Flora/Glow Cane.md",
     "Species/Fauna/Kaia.md",
     "Species/Fauna/Huross.md",
     "Species/Fauna/Humans.md",
-    "Institutions/Interplanetary Botanical Association.md",
-    "Factions/DynastyRoses.md",
     "Planets/Demeter.md",
     "Gadgets/Weapons/Energy/Polaroid Gun.md",
     "Gadgets/Components/Quantum Wave Drive.md",
