@@ -9,10 +9,10 @@
 ### CAUSE OF DEATH: |SHUTTLE ACCIDENT|
 ### STATUS: |DEAD|
 
-Dr. Seth Garwood worked alongside [[Dr S. Debreto]] to create [[Quantum Wave]] travel after [[The Dawn]]. He worked tirelessly for years after [[The Dawn]] in order to create more efficient and sustainable travel.
+Dr. Seth Garwood worked alongside [Dr S. Debreto](Dr%20S.%20Debreto.md) to create [Quantum Wave](../Physics/Quantum%20Wave.md) travel after [The Dawn](../Large%20Events/The%20Dawn.md). He worked tirelessly for years after [The Dawn](../Large%20Events/The%20Dawn.md) in order to create more efficient and sustainable travel.
 
-He unexpectedly lost contact with his closest friend, [[Dr S. Debreto]] 3 days after [[The Dawn]].
+He unexpectedly lost contact with his closest friend, [Dr S. Debreto](Dr%20S.%20Debreto.md) 3 days after [The Dawn](../Large%20Events/The%20Dawn.md).
 
 ## Death
 
-He lived a relatively quiet life after he found out that [[The Union]] was farming [[Huross]] for [[Aspite]] as he did not want to end up supposedly assassinated by [[The Union]] agents like [[Dr S. Debreto]].
+He lived a relatively quiet life after he found out that [The Union](../Factions/The%20Union.md) was farming [Huross](../Species/Huross.md) for [Aspite](../Materials/Aspite.md) as he did not want to end up supposedly assassinated by [The Union](../Factions/The%20Union.md) agents like [Dr S. Debreto](Dr%20S.%20Debreto.md).
