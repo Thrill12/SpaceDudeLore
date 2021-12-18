@@ -7,8 +7,11 @@
         "id": "1159e45a51c57d67",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Planets/6AB9HJG.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Planets/6AB9HJG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,15 +98,15 @@
   },
   "active": "1159e45a51c57d67",
   "lastOpenFiles": [
+    "Planets/6AB9HJG.md",
+    "Influential Persons/Jade Heath.md",
+    "Influential Persons/Dr. S. Garwood.md",
+    "Influential Persons/Dr S. Debreto.md",
+    "Influential Persons/Centurion.md",
     "Notable Years/2312.md",
     "Notable Years/2315.md",
     "Notable Years/2659.md",
     "Notable Years/2689.md",
-    "Institutions/The Astro-Academy.md",
-    "Large Events/The Dawn.md",
-    "Materials/Aspite.md",
-    "Physics/Quantum Wave Drive.md",
-    "Physics/Quantum Wave.md",
-    "Planets/Cazion.md"
+    "Institutions/The Astro-Academy.md"
   ]
 }
