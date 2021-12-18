@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "1159e45a51c57d67",
+        "id": "895472cb9919fce3",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Notable Years/2689.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notable Years/2689.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,6 +89,22 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "2fe853250f556cd1",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "2d29df26505105d1",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
           }
         ]
       }
@@ -92,17 +112,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "1159e45a51c57d67",
+  "active": "895472cb9919fce3",
   "lastOpenFiles": [
+    "Notable Years/2689.md",
+    "Player.md",
+    "Influential Persons/Dr. A. Lanipekun.md",
     "Physics/D.M. Core.md",
     "Large Events/Thiyotis Collapse.md",
     "Large Events/The Dawn.md",
     "Planets/Thiyotis.md",
     "Physics/Dark Matter.md",
     "Physics/Quantum Wave.md",
-    "Influential Persons/Jade Heath.md",
-    "Influential Persons/Centurion.md",
-    "Influential Persons/Dr S. Debreto.md",
-    "Influential Persons/Dr. A. Lanipekun.md"
+    "Influential Persons/Jade Heath.md"
   ]
 }

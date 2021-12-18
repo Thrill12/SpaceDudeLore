@@ -1,4 +1,4 @@
-[#Inventor]
+[#InfluentialPerson]
 
 ## Summary
 
