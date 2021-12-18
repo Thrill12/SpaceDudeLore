@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Factions/Frosttips.md",
+            "file": "Influential Persons/Dr S. Debreto.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/Frosttips.md",
+                "file": "Influential Persons/Dr S. Debreto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,12 +98,12 @@
   },
   "active": "1159e45a51c57d67",
   "lastOpenFiles": [
-    "Factions/Frosttips.md",
-    "Factions/Kaias.md",
-    "Factions/The Union.md",
-    "Galaxy/Galaxy.md",
     "Influential Persons/Dr S. Debreto.md",
     "Influential Persons/Centurion.md",
+    "Galaxy/Galaxy.md",
+    "Factions/The Union.md",
+    "Factions/Kaias.md",
+    "Factions/Frosttips.md",
     "Influential Persons/Dr. S. Garwood.md",
     "Influential Persons/Jade Heath.md",
     "Influential Years/2312.md",

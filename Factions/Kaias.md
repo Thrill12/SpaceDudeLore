@@ -2,4 +2,4 @@
 
 ## Summary
 
-The alien faction of the [[Kaia]] species.
+The alien faction of the [Kaia](../Species/Kaia.md) species.
