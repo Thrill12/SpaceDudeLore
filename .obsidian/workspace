@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Large Events/The Dawn.md",
+            "file": "Species/Huross.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Large Events/The Dawn.md",
+                "file": "Species/Huross.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "1159e45a51c57d67",
   "lastOpenFiles": [
+    "Species/Huross.md",
+    "Species/Kaia.md",
+    "Institutions/The Astro-Academy.md",
+    "Player.md",
+    "Influential Years/2689.md",
     "Large Events/The Dawn.md",
     "Influential Years/2312.md",
     "Planets/Bograugantunatu.md",
     "Species/Humans.md",
-    "Species/Kaia.md",
-    "Species/Huross.md",
-    "Planets/Volla E539.md",
-    "Planets/Perth.md",
-    "Planets/Pirth.md",
-    "Planets/Earth.md"
+    "Planets/Volla E539.md"
   ]
 }
