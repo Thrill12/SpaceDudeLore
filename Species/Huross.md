@@ -2,7 +2,7 @@
 
 ## Summary
 
-First originated on the planet [Bograugantunatu](Bograugantunatu.md), they escaped and civilization across the galaxy was almost aware of their presence. However, hired contractors were paid immense sums of money to get rid of any proof of their existence to keep the people under control.
+First originated on the planet [Bograugantunatu](./Bograugantunatu.md), they escaped and civilization across the galaxy was almost aware of their presence. However, hired contractors were paid immense sums of money to get rid of any proof of their existence to keep the people under control.
 
 Due to thousands of contractors seeking them through the [Galaxy](Galaxy.md), they eventually became extinct, however some of their remnants persist in some places in the [Galaxy](Galaxy.md).
 
