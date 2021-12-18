@@ -7,8 +7,11 @@
         "id": "50f5c860f4a72f03",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Planets/Thiyotis.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Planets/Thiyotis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,15 +114,15 @@
   },
   "active": "50f5c860f4a72f03",
   "lastOpenFiles": [
+    "Planets/Thiyotis.md",
+    "Planets/Volla E539.md",
+    "Species/Flora/Glow Cane.md",
+    "Species/Fauna/Humans.md",
+    "Species/Fauna/Huross.md",
+    "Species/Fauna/Kaia.md",
     "Notable Years/2312.md",
     "Notable Years/2315.md",
-    "Species/Flora/Glow Cane.md",
-    "Species/Fauna/Kaia.md",
-    "Species/Fauna/Huross.md",
-    "Species/Fauna/Humans.md",
     "Influential Persons/Player.md",
-    "Factions/The Union.md",
-    "Factions/The Foundation.md",
-    "Factions/Kaias.md"
+    "Factions/The Union.md"
   ]
 }

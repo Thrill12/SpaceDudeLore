@@ -5,20 +5,20 @@
   "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
-    {
-      "query": "#InfluentialYear",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
     {
       "query": "#InfluentialPerson",
       "color": {
         "a": 1,
         "rgb": 16711680
+      }
+    },
+    {
+      "query": "#Species",
+      "color": {
+        "a": 1,
+        "rgb": 15597823
       }
     },
     {
@@ -29,17 +29,17 @@
       }
     },
     {
+      "query": "#InfluentialYear",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
       "query": "#Faction",
       "color": {
         "a": 1,
         "rgb": 7935
-      }
-    },
-    {
-      "query": "#Species",
-      "color": {
-        "a": 1,
-        "rgb": 15597823
       }
     }
   ],
@@ -49,10 +49,10 @@
   "nodeSizeMultiplier": 1.3938202247191,
   "lineSizeMultiplier": 2.26755346896192,
   "collapse-forces": false,
-  "centerStrength": 0.535294117647059,
-  "repelStrength": 14.4705882352941,
-  "linkStrength": 1,
-  "linkDistance": 500,
-  "scale": 0.38230109687699815,
-  "close": false
+  "centerStrength": 0.0352941176470588,
+  "repelStrength": 5.52941176470588,
+  "linkStrength": 0.158823529411765,
+  "linkDistance": 282,
+  "scale": 0.3823010968770004,
+  "close": true
 }
