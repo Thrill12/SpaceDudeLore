@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Division of Classified Foundation Milestones.md",
+            "file": "Factions/The Union.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Division of Classified Foundation Milestones.md",
+                "file": "Factions/The Union.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +114,15 @@
   },
   "active": "841128fbb4fa5b9d",
   "lastOpenFiles": [
-    "Locations/Division of Classified Foundation Milestones.md",
+    "Factions/The Union.md",
     "Factions/The Foundation.md",
-    "Planets/Thov.md",
-    "Species/Fauna/Huross.md",
-    "Species/Fauna/Humans.md",
-    "Species/Fauna/Kaia.md",
-    "Locations/The Astro-Academy.md",
+    "Factions/Kaias.md",
+    "Factions/Frost Tips.md",
+    "Factions/Dynasty Roses.md",
+    "Locations/Division of Classified Foundation Milestones.md",
     "Locations/Interplanetary Botanical Association.md",
-    "Items/Armour/Cloaking Vest.md",
-    "Items/Components/Quantum Wave Drive.md"
+    "Locations/The States.md",
+    "Locations/The Astro-Academy.md",
+    "Species/Fauna/Kaia.md"
   ]
 }
