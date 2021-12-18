@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Planets/6AB9HJG.md",
+            "file": "Physics/Quantum Wave.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planets/6AB9HJG.md",
+                "file": "Physics/Quantum Wave.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,7 @@
   },
   "active": "1159e45a51c57d67",
   "lastOpenFiles": [
+    "Physics/Quantum Wave.md",
     "Planets/6AB9HJG.md",
     "Influential Persons/Jade Heath.md",
     "Influential Persons/Dr. S. Garwood.md",
@@ -106,7 +107,6 @@
     "Notable Years/2312.md",
     "Notable Years/2315.md",
     "Notable Years/2659.md",
-    "Notable Years/2689.md",
-    "Institutions/The Astro-Academy.md"
+    "Notable Years/2689.md"
   ]
 }
