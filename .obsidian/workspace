@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Influential Persons/Dr. S. Garwood.md",
+            "file": "Influential Persons/Jade Heath.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Influential Persons/Dr. S. Garwood.md",
+                "file": "Influential Persons/Jade Heath.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "1159e45a51c57d67",
   "lastOpenFiles": [
+    "Influential Persons/Jade Heath.md",
+    "Influential Persons/Centurion.md",
+    "Influential Persons/Dr S. Debreto.md",
+    "Influential Persons/Dr. A. Lanipekun.md",
     "Influential Persons/Dr. S. Garwood.md",
     "Institutions/Interplanetary Botanical Association.md",
     "Factions/DynastyRoses.md",
     "Species/Flora/Glow Cane.md",
     "Species/Fauna/Kaia.md",
-    "Species/Fauna/Huross.md",
-    "Species/Fauna/Humans.md",
-    "Planets/Demeter.md",
-    "Gadgets/Weapons/Energy/Polaroid Gun.md",
-    "Gadgets/Components/Quantum Wave Drive.md"
+    "Species/Fauna/Huross.md"
   ]
 }
