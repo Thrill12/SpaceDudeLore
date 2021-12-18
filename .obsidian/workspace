@@ -4,13 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "841128fbb4fa5b9d",
+        "id": "50f5c860f4a72f03",
         "type": "leaf",
-        "pinned": true,
         "state": {
-          "type": "juggl_view",
-          "state": {},
-          "pinned": true
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -104,24 +102,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "841128fbb4fa5b9d",
+  "active": "50f5c860f4a72f03",
   "lastOpenFiles": [
+    "Notable Years/2312.md",
+    "Notable Years/2315.md",
+    "Species/Flora/Glow Cane.md",
+    "Species/Fauna/Kaia.md",
+    "Species/Fauna/Huross.md",
+    "Species/Fauna/Humans.md",
     "Influential Persons/Player.md",
     "Factions/The Union.md",
     "Factions/The Foundation.md",
-    "Factions/Kaias.md",
-    "Factions/Frost Tips.md",
-    "Factions/Dynasty Roses.md",
-    "Locations/Division of Classified Foundation Milestones.md",
-    "Locations/Interplanetary Botanical Association.md",
-    "Locations/The States.md",
-    "Locations/The Astro-Academy.md"
+    "Factions/Kaias.md"
   ]
 }
