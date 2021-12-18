@@ -22,5 +22,13 @@
       ],
       "key": "."
     }
+  ],
+  "obsidian-git:pull": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "/"
+    }
   ]
 }
