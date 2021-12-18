@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Gadgets/Weapons/Energy/Polaroid Gun.md",
+            "file": "Planets/Bograugantunatu.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gadgets/Weapons/Energy/Polaroid Gun.md",
+                "file": "Planets/Bograugantunatu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "1159e45a51c57d67",
   "lastOpenFiles": [
+    "Planets/Bograugantunatu.md",
+    "Planets/Cazion.md",
+    "Species/Huross.md",
+    "Planets/6AB9HJG.md",
+    "Planets/Pirth.md",
+    "README.md",
     "Gadgets/Weapons/Energy/Polaroid Gun.md",
     "Influential Persons/Dr. A. Lanipekun.md",
     "Influential Persons/Dr S. Debreto.md",
-    "Large Events/The Dawn.md",
-    "Physics/Quantum Wave.md",
-    "Planets/6AB9HJG.md",
-    "Influential Persons/Jade Heath.md",
-    "Influential Persons/Dr. S. Garwood.md",
-    "Influential Persons/Centurion.md",
-    "Notable Years/2312.md"
+    "Large Events/The Dawn.md"
   ]
 }
