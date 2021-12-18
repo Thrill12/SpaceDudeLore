@@ -1,4 +1,4 @@
-[#Gadget, #Weapon]
+[#Item, #Weapon]
 
 ## Summary
 

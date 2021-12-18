@@ -6,7 +6,7 @@ A yellow plant that grows along large trees. When burned, its fumes invoke a hig
 
 ## Description
 
-Its stems are a bright green dotted with yellow vein-like lines underneath the surface. Its flowers are shaped like a common [Earth](../../Planets/Earth.md) rose, but yellow and slightly glowing. Scientists at the [Interplanetary Botanical Association](../../Institutions/Interplanetary%20Botanical%20Association.md) have found that increasing the temperatures the plant is exposed to when still in seed form just before it germinates causes the fluid inside the flowers to glow brighter. The reasons for this are still unknown.
+Its stems are a bright green dotted with yellow vein-like lines underneath the surface. Its flowers are shaped like a common [Earth](../../Planets/Earth.md) rose, but yellow and slightly glowing. Scientists at the [Interplanetary Botanical Association](../../Locations/Interplanetary%20Botanical%20Association.md) have found that increasing the temperatures the plant is exposed to when still in seed form just before it germinates causes the fluid inside the flowers to glow brighter. The reasons for this are still unknown.
 
 ## Side-effects of inhaling its fumes:
 - easy to handle high
