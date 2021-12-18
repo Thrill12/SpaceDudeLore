@@ -7,11 +7,8 @@
         "id": "1159e45a51c57d67",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Species/Kaia.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Species/Kaia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +94,15 @@
   },
   "active": "1159e45a51c57d67",
   "lastOpenFiles": [
-    "Species/Kaia.md",
-    "Species/Huross.md",
-    "Species/Humans.md",
-    "Planets/Volla E539.md",
-    "Planets/Pirth.md",
-    "Planets/Perth.md",
-    "Planets/Earth.md",
-    "Planets/Cazion.md",
-    "Planets/Bograugantunatu.md",
-    "Factions/Frosttips.md"
+    "Notable Years/2312.md",
+    "Notable Years/2315.md",
+    "Notable Years/2659.md",
+    "Notable Years/2689.md",
+    "Institutions/The Astro-Academy.md",
+    "Large Events/The Dawn.md",
+    "Materials/Aspite.md",
+    "Physics/Quantum Wave Drive.md",
+    "Physics/Quantum Wave.md",
+    "Planets/Cazion.md"
   ]
 }
