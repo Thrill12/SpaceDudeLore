@@ -17,3 +17,5 @@ He unexpectedly lost contact with his closest friend, [Dr S. Debreto](Dr%20S.%20
 ## Death
 
 He lived a relatively quiet life after he found out that [The Union](../Factions/The%20Union.md) was farming [Huross](../Species/Fauna/Huross.md) for [Aspite](../Materials/Aspite.md) as he did not want to end up supposedly assassinated by [The Union](../Factions/The%20Union.md) agents like [Dr S. Debreto](Dr%20S.%20Debreto.md).
+
+He was also struggling with a mild [Glow Cane](../Species/Flora/Glow%20Cane.md) addiction, which prevented him from fully enjoying his last few years alive.
