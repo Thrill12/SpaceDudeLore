@@ -1,0 +1,24 @@
+{
+  "promptDelete": false,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "attachmentFolderPath": "./",
+  "fileSortOrder": "alphabetical",
+  "spellcheckDictionary": [
+    "astro",
+    "backstab",
+    "rimworld",
+    "catalogue",
+    "Debreto",
+    "Selmes",
+    "codename",
+    "rumours",
+    "InfluentialPerson",
+    "InfluentialYear",
+    "Garwood",
+    "behaviours",
+    "LargeEvent",
+    "Aether"
+  ],
+  "alwaysUpdateLinks": true
+}

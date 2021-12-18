@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "13f74aecf62c3dfc",
+    "type": "split",
+    "children": [
+      {
+        "id": "1159e45a51c57d67",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Large Events/The Dawn.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "67b9b0723c394ce2",
+    "type": "split",
+    "children": [
+      {
+        "id": "74ead41d0e101d54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85ae77e1ec04c2b2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d1d9626d5983846c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "01ab6183227739f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "68af91fc8b36f6b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20c68214e96b5ba7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Large Events/The Dawn.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8fd7742e500770f6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "1159e45a51c57d67",
+  "lastOpenFiles": [
+    "Large Events/The Dawn.md",
+    "Species/Humans.md",
+    "Species/Kaia.md",
+    "Species/Huross.md",
+    "Planets/Volla E539.md",
+    "Planets/Perth.md",
+    "Planets/Pirth.md",
+    "Planets/Earth.md",
+    "Planets/Cazion.md",
+    "Planets/Bograugantunatu.md"
+  ]
+}
