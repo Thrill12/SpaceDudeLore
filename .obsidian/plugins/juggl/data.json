@@ -7,29 +7,29 @@
   "globalStyleGroups": [
     {
       "filter": "#Faction",
-      "color": "#002aff",
+      "color": "#004cff",
       "shape": "vee",
       "icon": {
         "name": "No icon",
         "path": "",
-        "color": "white"
+        "color": "#ffffff"
       },
-      "showInPane": true,
+      "showInPane": false,
       "show": true,
       "size": 3.18863636363636
     },
     {
       "filter": "#InfluentialPerson",
-      "color": "#ff0000",
+      "color": "#000000",
       "shape": "ellipse",
       "icon": {
-        "name": "No icon",
-        "path": "",
-        "color": "white"
+        "name": "Account",
+        "path": "M12,4A4,4 0 0,1 16,8A4,4 0 0,1 12,12A4,4 0 0,1 8,8A4,4 0 0,1 12,4M12,14C16.42,14 20,15.79 20,18V20H4V18C4,15.79 7.58,14 12,14Z",
+        "color": "#fe0606"
       },
       "showInPane": true,
       "show": true,
-      "size": 2.05340909090909
+      "size": 2.73454545454545
     },
     {
       "filter": "#Planet",
@@ -40,7 +40,7 @@
         "path": "",
         "color": "white"
       },
-      "showInPane": true,
+      "showInPane": false,
       "show": true,
       "size": 3.52920454545455
     },
@@ -53,7 +53,7 @@
         "path": "",
         "color": "white"
       },
-      "showInPane": true,
+      "showInPane": false,
       "show": true,
       "size": 4.21034090909091
     },
@@ -66,7 +66,7 @@
         "path": "",
         "color": "white"
       },
-      "showInPane": true,
+      "showInPane": false,
       "show": true,
       "size": 2.5075
     },
@@ -79,9 +79,35 @@
         "path": "M12,11.5A2.5,2.5 0 0,1 9.5,9A2.5,2.5 0 0,1 12,6.5A2.5,2.5 0 0,1 14.5,9A2.5,2.5 0 0,1 12,11.5M12,2A7,7 0 0,0 5,9C5,14.25 12,22 12,22C12,22 19,14.25 19,9A7,7 0 0,0 12,2Z",
         "color": "#ffffff"
       },
-      "showInPane": true,
+      "showInPane": false,
       "show": true,
       "size": 2.62102272727273
+    },
+    {
+      "filter": "#LargeEvent",
+      "color": "#000000",
+      "shape": "ellipse",
+      "icon": {
+        "name": "Exclamation Thick",
+        "path": "M10 3H14V14H10V3M10 21V17H14V21H10Z",
+        "color": "#ff8800"
+      },
+      "showInPane": false,
+      "show": true,
+      "size": 3.98329545454545
+    },
+    {
+      "filter": "#Material",
+      "color": "black",
+      "shape": "ellipse",
+      "icon": {
+        "name": "Bag Personal",
+        "path": "M16,5V4A2,2 0 0,0 14,2H10A2,2 0 0,0 8,4V5A4,4 0 0,0 4,9V20A2,2 0 0,0 6,22H18A2,2 0 0,0 20,20V9A4,4 0 0,0 16,5M10,4H14V5H10V4M12,9L14,11L12,13L10,11L12,9M18,16H9V18H8V16H6V15H18V16Z",
+        "color": "#ffffff"
+      },
+      "showInPane": true,
+      "show": true,
+      "size": 1.71284090909091
     }
   ],
   "globalGraphRibbon": true,
@@ -142,9 +168,10 @@
     "limit": 10000,
     "hoverEdges": false,
     "layout": {
-      "name": "concentric",
-      "animate": "end",
+      "name": "dagre",
+      "animate": true,
       "animationDuration": 500,
+      "spacingFactor": 0.5,
       "fit": false,
       "padding": 30,
       "nodeDimensionsIncludeLabels": true,

@@ -12,4 +12,6 @@
 
 Dr. Selmes Debreto was the person who originally designed and thought out the [Huross](../Species/Fauna/Huross.md) species, and also the person that set them loose.
 
+He also worked alongside [Dr. G. Garwood](Dr.%20G.%20Garwood.md) to create the [Quantum Wave Drive](../Items/Components/Quantum%20Wave%20Drive.md).
+
 Figured out that [The Union](../Factions/The%20Union.md) were using his supposedly illegal creation to farm [Aspite](../Materials/Aspite.md) for their insanely powerful but also hungry [Quantum Wave Drive](../Items/Components/Quantum%20Wave%20Drive.md)

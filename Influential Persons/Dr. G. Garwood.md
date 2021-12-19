@@ -2,7 +2,7 @@
 
 ## Summary
 
-### NAME: |SETH GARWOOD|
+### NAME: |GARETH GARWOOD|
 ### D.O.B: |27.03.2276|
 ### DEATH: |19.05.2343|
 ### SEX: |M|

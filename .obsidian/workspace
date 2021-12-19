@@ -4,11 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "50f5c860f4a72f03",
+        "id": "0e10ebf9a77dd5f4",
         "type": "leaf",
+        "pinned": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "juggl_view",
+          "state": {},
+          "pinned": true
         }
       }
     ],
@@ -102,23 +104,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "50f5c860f4a72f03",
+  "active": "0e10ebf9a77dd5f4",
   "lastOpenFiles": [
-    "Planets/Thiyotis.md",
-    "Planets/Volla E539.md",
-    "Species/Flora/Glow Cane.md",
     "Species/Fauna/Humans.md",
-    "Species/Fauna/Huross.md",
+    "Influential Persons/Dr S. Debreto.md",
+    "Influential Persons/Centurion.md",
+    "Influential Persons/Dr. G. Garwood.md",
+    "Items/Components/Quantum Wave Drive.md",
+    "Species/Flora/Glow Cane.md",
     "Species/Fauna/Kaia.md",
-    "Notable Years/2312.md",
-    "Notable Years/2315.md",
-    "Influential Persons/Player.md",
-    "Factions/The Union.md"
+    "Species/Fauna/Huross.md",
+    "Planets/Demeter.md",
+    "Influential Persons/Dr. J. Lanipekun.md"
   ]
 }
