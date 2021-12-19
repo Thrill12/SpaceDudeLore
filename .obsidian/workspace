@@ -12,17 +12,6 @@
           "state": {},
           "pinned": true
         }
-      },
-      {
-        "id": "ed0419b9d5a3bcf9",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -78,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ed0419b9d5a3bcf9",
+  "active": "f5309c5566cd5c4e",
   "lastOpenFiles": [
     "README.md",
     "Factions/The Union.md",
