@@ -1,16 +1,17 @@
 {
   "main": {
-    "id": "13f74aecf62c3dfc",
+    "id": "caa51510bc75b4ec",
     "type": "split",
     "children": [
       {
-        "id": "f5309c5566cd5c4e",
+        "id": "fa95e2ff00277b6d",
         "type": "leaf",
-        "pinned": true,
         "state": {
-          "type": "juggl_view",
-          "state": {},
-          "pinned": true
+          "type": "markdown",
+          "state": {
+            "file": "Factions/The Union.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -67,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Factions/The Union.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,17 +113,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "f5309c5566cd5c4e",
+  "active": "fa95e2ff00277b6d",
   "lastOpenFiles": [
-    "README.md",
     "Factions/The Union.md",
+    "Locations/Division of Classified Foundation Milestones.md",
+    "README.md",
     "Items/Components/Quantum Wave Drive.md",
     "Influential Persons/Dr S. Debreto.md",
     "Influential Persons/Dr. G. Garwood.md",
     "Locations/The Astro-Academy.md",
     "Planets/Earth.md",
     "Factions/The Foundation.md",
-    "Species/Flora/Glow Cane.md",
-    "Factions/Dynasty Roses.md"
+    "Species/Flora/Glow Cane.md"
   ]
 }
