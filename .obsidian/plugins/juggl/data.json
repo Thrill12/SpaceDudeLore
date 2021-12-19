@@ -21,7 +21,7 @@
     {
       "filter": "#InfluentialPerson",
       "color": "#000000",
-      "shape": "ellipse",
+      "shape": "diamond",
       "icon": {
         "name": "Account",
         "path": "M12,4A4,4 0 0,1 16,8A4,4 0 0,1 12,12A4,4 0 0,1 8,8A4,4 0 0,1 12,4M12,14C16.42,14 20,15.79 20,18V20H4V18C4,15.79 7.58,14 12,14Z",
@@ -105,7 +105,7 @@
         "path": "M16,5V4A2,2 0 0,0 14,2H10A2,2 0 0,0 8,4V5A4,4 0 0,0 4,9V20A2,2 0 0,0 6,22H18A2,2 0 0,0 20,20V9A4,4 0 0,0 16,5M10,4H14V5H10V4M12,9L14,11L12,13L10,11L12,9M18,16H9V18H8V16H6V15H18V16Z",
         "color": "#ffffff"
       },
-      "showInPane": true,
+      "showInPane": false,
       "show": true,
       "size": 1.71284090909091
     }

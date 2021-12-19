@@ -4,13 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "0e10ebf9a77dd5f4",
+        "id": "f5309c5566cd5c4e",
         "type": "leaf",
         "pinned": true,
         "state": {
           "type": "juggl_view",
           "state": {},
           "pinned": true
+        }
+      },
+      {
+        "id": "ed0419b9d5a3bcf9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -67,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,17 +123,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "0e10ebf9a77dd5f4",
+  "active": "ed0419b9d5a3bcf9",
   "lastOpenFiles": [
-    "Species/Fauna/Humans.md",
-    "Influential Persons/Dr S. Debreto.md",
-    "Influential Persons/Centurion.md",
-    "Influential Persons/Dr. G. Garwood.md",
+    "README.md",
+    "Factions/The Union.md",
     "Items/Components/Quantum Wave Drive.md",
+    "Influential Persons/Dr S. Debreto.md",
+    "Influential Persons/Dr. G. Garwood.md",
+    "Locations/The Astro-Academy.md",
+    "Planets/Earth.md",
+    "Factions/The Foundation.md",
     "Species/Flora/Glow Cane.md",
-    "Species/Fauna/Kaia.md",
-    "Species/Fauna/Huross.md",
-    "Planets/Demeter.md",
-    "Influential Persons/Dr. J. Lanipekun.md"
+    "Factions/Dynasty Roses.md"
   ]
 }
