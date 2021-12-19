@@ -7,11 +7,8 @@
         "id": "50f5c860f4a72f03",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Planets/Thiyotis.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planets/Thiyotis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
