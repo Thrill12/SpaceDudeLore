@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Factions/The Union.md",
+            "file": "Species/Fauna/Huross.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/The Union.md",
+                "file": "Species/Fauna/Huross.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +115,7 @@
   },
   "active": "fa95e2ff00277b6d",
   "lastOpenFiles": [
+    "Species/Fauna/Huross.md",
     "Factions/The Union.md",
     "Locations/Division of Classified Foundation Milestones.md",
     "README.md",
@@ -123,7 +124,6 @@
     "Influential Persons/Dr. G. Garwood.md",
     "Locations/The Astro-Academy.md",
     "Planets/Earth.md",
-    "Factions/The Foundation.md",
-    "Species/Flora/Glow Cane.md"
+    "Factions/The Foundation.md"
   ]
 }
