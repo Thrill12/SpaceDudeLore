@@ -14,7 +14,7 @@ Their nervous tissue is made up of a material similar to [Aspite](../../Material
 
 When [The Foundation](../../Factions/The%20Foundation.md) first established contact with the [Kaia](Kaia.md), this is what they had to say:
 
-"Welcome, xenos. We are hungry. We are everywhere. We can see you. We can feel you."
+"Welcome. We are hungry. We are everywhere. We can see you. We can feel you."
 
 ### Diet
 
