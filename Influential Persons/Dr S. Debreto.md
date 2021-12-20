@@ -9,6 +9,7 @@
 ### CAUSE OF DEATH: |HEART FAILURE|
 ### STATUS: |DEAD|
 
+## Biography
 
 Dr. Selmes Debreto was the person who originally designed and thought out the [Huross](../Species/Fauna/Huross.md) species, and also the person that set them loose.
 

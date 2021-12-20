@@ -9,6 +9,7 @@
 ### CAUSE OF DEATH: |GLOW CANE OVERDOSE|
 ### STATUS: |DEAD|
 
+## Biography
 
 Dr. Gareth Garwood worked alongside [Dr S. Debreto](Dr%20S.%20Debreto.md) to create [Quantum Wave](../Physics/Quantum%20Wave.md) travel after [The Dawn](../Large%20Events/The%20Dawn.md). He worked tirelessly for years after [The Dawn](../Large%20Events/The%20Dawn.md) in order to create more efficient and sustainable travel.
 
