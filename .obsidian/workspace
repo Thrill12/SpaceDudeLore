@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "e5ba12c868daeb12",
+        "id": "d17e5f19b61af1f0",
         "type": "leaf",
         "pinned": true,
         "state": {
@@ -51,7 +51,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 229
   },
   "right": {
     "id": "01ab6183227739f5",
@@ -109,19 +109,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "e5ba12c868daeb12",
+  "active": "d17e5f19b61af1f0",
   "lastOpenFiles": [
+    "Legends/Nova Superweapon.md",
+    "Planets/Thov.md",
+    "Items/Armour/Cloaking Vest.md",
     "Planets/Perth.md",
-    "Planets/Pirth.md",
     "Planets/Cazion.md",
-    "Planets/Bograugantunatu.md",
     "Planets/6AB9HJG.md",
-    "Planets/Demeter.md",
-    "Planets/Earth.md",
-    "Planets/Theo.md",
     "Planets/Thiyotis.md",
-    "Planets/Thov.md"
+    "Planets/Theo.md",
+    "Planets/Earth.md",
+    "Planets/Demeter.md"
   ]
 }

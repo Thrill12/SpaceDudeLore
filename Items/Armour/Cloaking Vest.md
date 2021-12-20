@@ -6,6 +6,8 @@ This extremely delicate fabric incorporates [Kaia](../../Species/Fauna/Kaia.md) 
 
 ## Description
 
+It was invented by [Dr. K. Wheatley](../../Influential%20Persons/Dr.%20K.%20Wheatley.md) as a necessity of defense after his joining of [The Foundation](../../Factions/The%20Foundation.md).
+
 Effectively acting like an "invisibility cloak" for whoever wears it, it has proven an extreme advantage that only [The Foundation](../../Factions/The%20Foundation.md) have seemed to possess.
 
 Underneath the vest, the wearer has to wear a layer of metal-weave fabric in order to allow the current to safely pass to the [Kaia](../../Species/Fauna/Kaia.md) scales.
