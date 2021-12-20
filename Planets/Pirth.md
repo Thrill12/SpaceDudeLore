@@ -7,5 +7,3 @@ An icy planet in the North of the galaxy, it orbits calmly with its sister plane
 ## Description
 
 Not many venture out as far as [Perth](Perth.md) and [Pirth](Pirth.md), however those that do are greeted with the coldest climates in the [Galaxy](../Galaxy/Galaxy.md). Temperatures here can almost drop to -150 degrees. This requires extremely sophisticated equipment, and only those accustomed to the cold and born on these two planets can even dream of being productive outside.
-
-It is also home to [The Northern Mental Institute](../Locations/The%20Northern%20Mental%20Institute.md), on which there are currently rumours that someone is developing plans for a super-weapon.
