@@ -12,17 +12,6 @@
           "state": {},
           "pinned": true
         }
-      },
-      {
-        "id": "23449778e5545c57",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Planets/Perth.md",
-            "mode": "source"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -78,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planets/Perth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "23449778e5545c57",
+  "active": "e5ba12c868daeb12",
   "lastOpenFiles": [
     "Planets/Perth.md",
     "Planets/Pirth.md",
