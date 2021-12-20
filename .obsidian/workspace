@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Species/Fauna/Kaia.md",
+            "file": "Influential Persons/The Patriarchs.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Species/Fauna/Kaia.md",
+                "file": "Influential Persons/The Patriarchs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +115,15 @@
   },
   "active": "b25fc7e0e04ef7c6",
   "lastOpenFiles": [
-    "Species/Fauna/Kaia.md",
-    "Locations/The Northern Mental Institute.md",
-    "Notable Years/2421.md",
-    "Notable Years/2315.md",
-    "Notable Years/2312.md",
-    "Notable Years/2659.md",
-    "Notable Years/2689.md",
-    "Planets/Thov.md",
-    "Planets/Volla E539.md",
-    "Planets/Theo.md"
+    "Influential Persons/The Patriarchs.md",
+    "Influential Persons/Avery Meadows.md",
+    "Influential Persons/Jade Heath.md",
+    "Influential Persons/Player.md",
+    "Influential Persons/Dr. K. Wheatley.md",
+    "Influential Persons/Dr S. Debreto.md",
+    "Influential Persons/Centurion.md",
+    "Influential Persons/Dr. G. Garwood.md",
+    "Influential Persons/Dr. J. Lanipekun.md",
+    "Influential Persons/Eli Murray.md"
   ]
 }
