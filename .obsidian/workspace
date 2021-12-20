@@ -4,24 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "b25fc7e0e04ef7c6",
+        "id": "ec34db58bf98ce05",
         "type": "leaf",
         "pinned": true,
         "state": {
           "type": "juggl_view",
           "state": {},
           "pinned": true
-        }
-      },
-      {
-        "id": "03b65cd40c6e8d4c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Influential Persons/Avery Meadows.md",
-            "mode": "source"
-          }
         }
       }
     ],
@@ -78,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Influential Persons/Avery Meadows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,17 +111,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "03b65cd40c6e8d4c",
+  "active": "ec34db58bf98ce05",
   "lastOpenFiles": [
-    "Influential Persons/Avery Meadows.md",
-    "Influential Persons/The Chief Council.md",
-    "Influential Persons/Dr. K. Wheatley.md",
-    "Factions/The Foundation.md",
-    "Influential Persons/Dr. J. Lanipekun.md",
-    "Influential Persons/Dr. G. Garwood.md",
+    "Legends/Nova Superweapon.md",
+    "Locations/The Northern Mental Institute.md",
+    "Locations/The Reformed Research Laboratory.md",
+    "Factions/Frost Tips.md",
+    "Planets/Pirth.md",
     "Influential Persons/Dr S. Debreto.md",
     "Influential Persons/Eli Murray.md",
-    "Influential Persons/Centurion.md",
+    "Influential Persons/The Chief Council.md",
+    "Influential Persons/Player.md",
     "Influential Persons/Jade Heath.md"
   ]
 }

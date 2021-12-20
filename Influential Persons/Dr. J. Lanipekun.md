@@ -7,7 +7,7 @@
 ### DEATH: |8.10.2407|
 ### SEX: |M|
 ### STATUS: |DEAD|
-### DEATH: |UNKNOWN|
+### CAUSE OF DEATH: |UNKNOWN|
 
 ## Biography
 
