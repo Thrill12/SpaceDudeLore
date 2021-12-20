@@ -12,6 +12,17 @@
           "state": {},
           "pinned": true
         }
+      },
+      {
+        "id": "0625d6f28eff234d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Locations/Dr S. Debreto's Laboratory.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -67,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Locations/Dr S. Debreto's Laboratory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,10 +121,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "d17e5f19b61af1f0",
+  "active": "0625d6f28eff234d",
   "lastOpenFiles": [
+    "Locations/Dr S. Debreto's Laboratory.md",
+    "Large Events/The Dawn.md",
     "Legends/Nova Superweapon.md",
     "Planets/Thov.md",
     "Items/Armour/Cloaking Vest.md",
@@ -120,8 +135,6 @@
     "Planets/Cazion.md",
     "Planets/6AB9HJG.md",
     "Planets/Thiyotis.md",
-    "Planets/Theo.md",
-    "Planets/Earth.md",
-    "Planets/Demeter.md"
+    "Planets/Theo.md"
   ]
 }
