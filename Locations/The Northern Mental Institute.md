@@ -6,6 +6,6 @@ First established in [2421](../Notable%20Years/2421.md) to host the [Galaxy's](.
 
 ## Description
 
-Most of its patient intakes come from [Union](../Factions/The%20Union.md) territory, but it is open for anyone in the galaxy.
+Situated on [Perth](../Planets/Perth.md), most of its patient intakes come from [Union](../Factions/The%20Union.md) territory, but it is open for anyone in the galaxy.
 
 Often, transporters often leave the [Institute](The%20Northern%20Mental%20Institute.md) with rumours of [The Nova Superweapon](../Legends/Nova%20Superweapon.md), but are quickly dismissed.

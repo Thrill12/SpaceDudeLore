@@ -4,13 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "ec34db58bf98ce05",
+        "id": "e5ba12c868daeb12",
         "type": "leaf",
         "pinned": true,
         "state": {
           "type": "juggl_view",
           "state": {},
           "pinned": true
+        }
+      },
+      {
+        "id": "4b9ff9b10861417c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Planets/Cazion.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -67,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Planets/Cazion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,7 +96,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -105,23 +117,23 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ec34db58bf98ce05",
+  "active": "4b9ff9b10861417c",
   "lastOpenFiles": [
-    "Legends/Nova Superweapon.md",
-    "Locations/The Northern Mental Institute.md",
-    "Locations/The Reformed Research Laboratory.md",
-    "Factions/Frost Tips.md",
+    "Planets/Cazion.md",
+    "Planets/Bograugantunatu.md",
+    "Planets/6AB9HJG.md",
+    "Planets/Demeter.md",
+    "Planets/Earth.md",
+    "Planets/Perth.md",
     "Planets/Pirth.md",
-    "Influential Persons/Dr S. Debreto.md",
-    "Influential Persons/Eli Murray.md",
-    "Influential Persons/The Chief Council.md",
-    "Influential Persons/Player.md",
-    "Influential Persons/Jade Heath.md"
+    "Planets/Theo.md",
+    "Planets/Thiyotis.md",
+    "Planets/Thov.md"
   ]
 }
