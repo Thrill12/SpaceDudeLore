@@ -12,6 +12,10 @@ These reflective surfaces are still unknown in how they work, but they do offer 
 
 Their nervous tissue is made up of a material similar to [Aspite](../../Materials/Aspite.md), in the sense that it appears to be everywhere around us. Unlike [Aspite](../../Materials/Aspite.md) however, only [Kaia](Kaia.md) nervous tissue is able to access it, thus creating a basically uncrackable way of instant communication.
 
+When [The Foundation](../../Factions/The%20Foundation.md) first established contact with the [Kaia](Kaia.md), this is what they had to say:
+
+"Welcome, xenos. We are hungry. We are everywhere. We can see you. We can feel you."
+
 ### Diet
 
 Their home planet of [6AB9HJG](../../Planets/6AB9HJG.md) has a flora consisting of mainly small, grass-like plants that can sometimes flower or grow seemingly random fruits, however nothing becomes tall enough to resemble a tree, or even a bush. They feed on these, and sometimes feed on smaller [Kaia](Kaia.md), however their primary nutritious intake is [Aspite](../../Materials/Aspite.md). They have microscopic "gills" which allow them to suck in surrounding [Aspite](../../Materials/Aspite.md) and consume it with no wasted energy.
