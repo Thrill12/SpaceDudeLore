@@ -11,3 +11,5 @@ They immediately founded [The Interplanetary Botanical Association](../Locations
 They originated from the wooded planet [Demeter](../Planets/Demeter.md), on which [Glow Cane](../Species/Flora/Glow%20Cane.md) grows the most, and are still based on [Demeter](../Planets/Demeter.md) after hundreds of years of cultivating their beloved plant.
 
 They are not allies with anyone, but neither are they enemies - a truly extraordinary sight to see nowadays when there are wars at every corner. People of this faction absolutely despise useless wars over territory or trivial resources like water.
+
+Their governmental hierarchy is reminiscent of that of an ancient tribe on [Earth](../Planets/Earth.md), where there is one chief giving commands to their subservients. Whilst their rules are relatively peaceful, they take their matters very seriously, and when another faction or group does something they don't agree with, they don't hesitate to tell them about it.

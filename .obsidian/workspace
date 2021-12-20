@@ -1,25 +1,15 @@
 {
   "main": {
-    "id": "58da897a495bee85",
+    "id": "2c9ac49685a886fe",
     "type": "split",
     "children": [
       {
-        "id": "d17e5f19b61af1f0",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "juggl_view",
-          "state": {},
-          "pinned": true
-        }
-      },
-      {
-        "id": "0625d6f28eff234d",
+        "id": "a0f7b7ea67fe1067",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Dr S. Debreto's Laboratory.md",
+            "file": "Factions/Dynasty Roses.md",
             "mode": "source"
           }
         }
@@ -78,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Dr S. Debreto's Laboratory.md",
+                "file": "Factions/Dynasty Roses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,17 +114,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0625d6f28eff234d",
+  "active": "a0f7b7ea67fe1067",
   "lastOpenFiles": [
-    "Locations/Dr S. Debreto's Laboratory.md",
-    "Large Events/The Dawn.md",
-    "Legends/Nova Superweapon.md",
-    "Planets/Thov.md",
-    "Items/Armour/Cloaking Vest.md",
-    "Planets/Perth.md",
-    "Planets/Cazion.md",
-    "Planets/6AB9HJG.md",
-    "Planets/Thiyotis.md",
-    "Planets/Theo.md"
+    "Factions/Dynasty Roses.md",
+    "Factions/Frost Tips.md",
+    "Factions/Kaias.md",
+    "Factions/The Foundation.md",
+    "Factions/The Union.md",
+    "Galaxy/Galaxy.md",
+    "Influential Persons/Avery Meadows.md",
+    "Influential Persons/Centurion.md",
+    "Influential Persons/Dr. G. Garwood.md",
+    "Influential Persons/Dr S. Debreto.md"
   ]
 }
