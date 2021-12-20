@@ -15,3 +15,7 @@ Sometimes, they find missions worth executing in closer [Union](The%20Union.md) 
 They have managed to harness the power of the [Kaia](../Species/Fauna/Kaia.md) scales for cloaking, and created special [Cloaking Vests](../Items/Armour/Cloaking%20Vest.md) to suit up their operatives as soon as they captured a [Kaia](../Species/Fauna/Kaia.md).
 
 In order for [Foundation](The%20Foundation.md) operatives to keep their secrets secure, a monitor closely reads their vitals, and as soon as they are unable to fight back an explosive device fitted in the wearer's back and one at the back of their necks explode. This removes the risk of opposing factions gaining access to the technology, and renders stealing this technology almost impossible.
+
+## [D.C.F.M](../Locations/Division%20of%20Classified%20Foundation%20Milestones.md)
+
+[The Foundation](The%20Foundation.md) has known of the [Kaia](../Species/Fauna/Kaia.md) for possibly hundreds of years, but they have kept it under wraps in order to avert panic and concentrate on dealing with [The Union](The%20Union.md).

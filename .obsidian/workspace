@@ -1,14 +1,17 @@
 {
   "main": {
-    "id": "caa51510bc75b4ec",
+    "id": "58da897a495bee85",
     "type": "split",
     "children": [
       {
-        "id": "fa95e2ff00277b6d",
+        "id": "b25fc7e0e04ef7c6",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Species/Fauna/Kaia.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Species/Fauna/Kaia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,17 +113,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "fa95e2ff00277b6d",
+  "active": "b25fc7e0e04ef7c6",
   "lastOpenFiles": [
-    "Species/Fauna/Huross.md",
-    "Factions/The Union.md",
-    "Locations/Division of Classified Foundation Milestones.md",
-    "README.md",
-    "Items/Components/Quantum Wave Drive.md",
-    "Influential Persons/Dr S. Debreto.md",
-    "Influential Persons/Dr. G. Garwood.md",
-    "Locations/The Astro-Academy.md",
-    "Planets/Earth.md",
-    "Factions/The Foundation.md"
+    "Species/Fauna/Kaia.md",
+    "Locations/The Northern Mental Institute.md",
+    "Notable Years/2421.md",
+    "Notable Years/2315.md",
+    "Notable Years/2312.md",
+    "Notable Years/2659.md",
+    "Notable Years/2689.md",
+    "Planets/Thov.md",
+    "Planets/Volla E539.md",
+    "Planets/Theo.md"
   ]
 }
