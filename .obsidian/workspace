@@ -6,12 +6,11 @@
       {
         "id": "a0f7b7ea67fe1067",
         "type": "leaf",
+        "pinned": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Factions/Dynasty Roses.md",
-            "mode": "source"
-          }
+          "type": "juggl_view",
+          "state": {},
+          "pinned": true
         }
       }
     ],
@@ -68,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/Dynasty Roses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
