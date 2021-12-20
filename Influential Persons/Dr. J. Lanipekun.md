@@ -12,3 +12,5 @@
 ## Biography
 
 Not much is known about this person, except that he worked on creating the [Polaroid Gun](../Items/Weapons/Energy/Polaroid%20Gun.md). He was never alive to witness the gun's coming of age as [The Union](../Factions/The%20Union.md) started using it as a base piece of kit in their anti-terrorism squads.
+
+Logs in [The Foundation](../Factions/The%20Foundation.md) database do indicate that he was once a patient at [The Northern Mental Institute](../Locations/The%20Northern%20Mental%20Institute.md), however no other evidence has been found of this.

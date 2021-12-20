@@ -6,10 +6,20 @@
       {
         "id": "b25fc7e0e04ef7c6",
         "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "juggl_view",
+          "state": {},
+          "pinned": true
+        }
+      },
+      {
+        "id": "03b65cd40c6e8d4c",
+        "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Influential Persons/The Patriarchs.md",
+            "file": "Influential Persons/Avery Meadows.md",
             "mode": "source"
           }
         }
@@ -68,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Influential Persons/The Patriarchs.md",
+                "file": "Influential Persons/Avery Meadows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,17 +123,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "b25fc7e0e04ef7c6",
+  "active": "03b65cd40c6e8d4c",
   "lastOpenFiles": [
-    "Influential Persons/The Patriarchs.md",
-    "Influential Persons/Dr S. Debreto.md",
-    "Influential Persons/Centurion.md",
     "Influential Persons/Avery Meadows.md",
-    "Influential Persons/Dr. J. Lanipekun.md",
+    "Influential Persons/The Chief Council.md",
     "Influential Persons/Dr. K. Wheatley.md",
+    "Factions/The Foundation.md",
+    "Influential Persons/Dr. J. Lanipekun.md",
+    "Influential Persons/Dr. G. Garwood.md",
+    "Influential Persons/Dr S. Debreto.md",
     "Influential Persons/Eli Murray.md",
-    "Influential Persons/Jade Heath.md",
-    "Influential Persons/Player.md",
-    "Influential Persons/Dr. G. Garwood.md"
+    "Influential Persons/Centurion.md",
+    "Influential Persons/Jade Heath.md"
   ]
 }
