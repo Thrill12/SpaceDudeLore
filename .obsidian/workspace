@@ -1,16 +1,17 @@
 {
   "main": {
-    "id": "2c9ac49685a886fe",
+    "id": "50b9a4658cbe4a2c",
     "type": "split",
     "children": [
       {
-        "id": "a0f7b7ea67fe1067",
+        "id": "d351eefcf48e8491",
         "type": "leaf",
-        "pinned": true,
         "state": {
-          "type": "juggl_view",
-          "state": {},
-          "pinned": true
+          "type": "markdown",
+          "state": {
+            "file": "Locations/The Northern Mental Institute.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -67,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Locations/The Northern Mental Institute.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,8 +114,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a0f7b7ea67fe1067",
+  "active": "d351eefcf48e8491",
   "lastOpenFiles": [
+    "Locations/The Northern Mental Institute.md",
+    "Influential Persons/Dr. J. Lanipekun.md",
     "Factions/Dynasty Roses.md",
     "Factions/Frost Tips.md",
     "Factions/Kaias.md",
@@ -121,8 +125,6 @@
     "Factions/The Union.md",
     "Galaxy/Galaxy.md",
     "Influential Persons/Avery Meadows.md",
-    "Influential Persons/Centurion.md",
-    "Influential Persons/Dr. G. Garwood.md",
-    "Influential Persons/Dr S. Debreto.md"
+    "Influential Persons/Centurion.md"
   ]
 }

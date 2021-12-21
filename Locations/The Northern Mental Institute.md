@@ -11,3 +11,7 @@ Situated on [Perth](../Planets/Perth.md), most of its patient intakes come from 
 Often, transporters often leave the [Institute](The%20Northern%20Mental%20Institute.md) with rumours of [The Nova Superweapon](../Legends/Nova%20Superweapon.md), but are quickly dismissed.
 
 It uses power from the nearby thermal vents on [Perth](../Planets/Perth.md), and it can create enough power for a few cities. It donates the excess power to its sister planet.
+
+### Notable attendees
+
+1. [Dr. J. Lanipekun](../Influential%20Persons/Dr.%20J.%20Lanipekun.md)
