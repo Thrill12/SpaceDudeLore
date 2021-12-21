@@ -6,12 +6,11 @@
       {
         "id": "d351eefcf48e8491",
         "type": "leaf",
+        "pinned": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Locations/The Northern Mental Institute.md",
-            "mode": "source"
-          }
+          "type": "juggl_view",
+          "state": {},
+          "pinned": true
         }
       }
     ],
@@ -68,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/The Northern Mental Institute.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,15 +114,15 @@
   },
   "active": "d351eefcf48e8491",
   "lastOpenFiles": [
-    "Locations/The Northern Mental Institute.md",
+    "Pop Culture/The Blue Panther.md",
+    "Influential Persons/The Chief Council.md",
+    "Influential Persons/Player.md",
+    "Influential Persons/Jade Heath.md",
+    "Influential Persons/Eli Murray.md",
+    "Influential Persons/Dr. K. Wheatley.md",
+    "Influential Persons/Dr. G. Garwood.md",
     "Influential Persons/Dr. J. Lanipekun.md",
-    "Factions/Dynasty Roses.md",
-    "Factions/Frost Tips.md",
-    "Factions/Kaias.md",
-    "Factions/The Foundation.md",
-    "Factions/The Union.md",
-    "Galaxy/Galaxy.md",
-    "Influential Persons/Avery Meadows.md",
+    "Influential Persons/Dr S. Debreto.md",
     "Influential Persons/Centurion.md"
   ]
 }
