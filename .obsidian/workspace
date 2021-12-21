@@ -19,7 +19,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Influential Persons/Barteus Cromley.md",
+            "file": "Planets/Earth.md",
             "mode": "source"
           }
         }
@@ -62,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229
+    "width": 355
   },
   "right": {
     "id": "01ab6183227739f5",
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Influential Persons/Barteus Cromley.md",
+                "file": "Planets/Earth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,15 +126,15 @@
   },
   "active": "9bd611116fa886a3",
   "lastOpenFiles": [
-    "Influential Persons/Barteus Cromley.md",
-    "Factions/The Foundation.md",
-    "Influential Persons/Jade Heath.md",
-    "Influential Persons/Dr. J. Lanipekun.md",
-    "Influential Persons/Dr. G. Garwood.md",
-    "Influential Persons/Centurion.md",
-    "Locations/The Eastern Territory Penitentiary.md",
+    "Planets/Earth.md",
+    "Planets/Demeter.md",
+    "Planets/Cazion.md",
+    "Planets/Bograugantunatu.md",
     "Planets/Ares.md",
-    "Untitled.md",
-    "Pop Culture/The Blue Panther.md"
+    "Planets/6AB9HJG.md",
+    "Planets/Volla E539.md",
+    "Locations/The Eastern Territory Penitentiary.md",
+    "Influential Persons/Barteus Cromley.md",
+    "Factions/The Foundation.md"
   ]
 }

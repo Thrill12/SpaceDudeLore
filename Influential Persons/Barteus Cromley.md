@@ -4,7 +4,7 @@
 
 ### NAME: |Barteus Cromley|
 ### D.O.B: |13.08.2620|
-### SEX: |F|
+### SEX: |M|
 ### STATUS: |IMPRISONED|
 
 ## Biography
