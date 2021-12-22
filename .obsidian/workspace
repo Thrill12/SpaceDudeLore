@@ -19,7 +19,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/The Northern Mental Institute.md",
+            "file": "Factions/Kaias.md",
             "mode": "source",
             "source": false
           }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/The Northern Mental Institute.md",
+                "file": "Factions/Kaias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +127,8 @@
   },
   "active": "8b956b62aa3f1d53",
   "lastOpenFiles": [
+    "Factions/Kaias.md",
+    "Factions/New Earth Republic.md",
     "Locations/The Northern Mental Institute.md",
     "Large Events/The Dawn.md",
     "Factions/The Foundation.md",
@@ -134,8 +136,6 @@
     "Species/Flora/Glow Cane.md",
     "Species/Fauna/Mackal.md",
     "Species/Fauna/Kaia.md",
-    "Species/Fauna/Huross.md",
-    "Species/Fauna/Humans.md",
-    "Species/Fauna/Chimera.md"
+    "Species/Fauna/Huross.md"
   ]
 }
