@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "2eb5fb960e9dda34",
+        "id": "d9a7b61f287e1065",
         "type": "leaf",
         "pinned": true,
         "state": {
@@ -14,12 +14,12 @@
         }
       },
       {
-        "id": "ae00502939a7d586",
+        "id": "f54bc1c6ab141651",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Factions/New Earth Republic.md",
+            "file": "Factions/The Foundation.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/New Earth Republic.md",
+                "file": "Factions/The Foundation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,17 +124,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ae00502939a7d586",
+  "active": "f54bc1c6ab141651",
   "lastOpenFiles": [
-    "Factions/New Earth Republic.md",
-    "Influential Persons/Nick Valentine.md",
-    "Large Events/The Dawn.md",
-    "Factions/The Union.md",
     "Factions/The Foundation.md",
-    "Materials/Aspite.md",
-    "Locations/Division of Classified Foundation Milestones.md",
-    "Locations/Dr S. Debreto's Laboratory.md",
-    "Locations/Interplanetary Botanical Association.md",
-    "Locations/The Astro-Academy.md"
+    "Locations/The Eastern Territory Penitentiary.md",
+    "Species/Flora/Glow Cane.md",
+    "Species/Fauna/Mackal.md",
+    "Species/Fauna/Kaia.md",
+    "Species/Fauna/Huross.md",
+    "Species/Fauna/Humans.md",
+    "Species/Fauna/Chimera.md",
+    "Pop Culture/The Blue Panther.md",
+    "Planets/Volla E539.md"
   ]
 }

@@ -2,11 +2,11 @@
 
 ## Summary
 
-Created with the idea of eliminating [The Union](The%20Union.md) from the face of the galaxy and liberating the people, it's a private corporation funded by mainly illicit means.
+Created with the idea of eliminating [The Union](The%20Union.md) from the face of the galaxy and liberating the people, it's a shadow corporation funded by mainly illicit means.
 
 Run by [The Chief Council](../Influential%20Persons/The%20Chief%20Council.md) at [The Foundation Headquarters](../Locations/The%20Foundation%20Headquarters.md), it is a clean operation with no acceptance for corruption. They have existed in secret for hundreds, maybe even thousands of years, however they have only come out of hiding because of the lurking threat that is [The Union](The%20Union.md).
 
-## M.O.
+## Description
 
 [The Foundation](The%20Foundation.md) likes to run operations with single members, however each of these members is believed to be partially enhanced or [Huross](../Species/Fauna/Huross.md). They prefer running missions in less important worlds as to not cause even more chaos in the already unbalanced environments of the other planets.
 
