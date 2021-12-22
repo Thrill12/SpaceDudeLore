@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "d9a7b61f287e1065",
+        "id": "7a54dff2c2899445",
         "type": "leaf",
         "pinned": true,
         "state": {
@@ -14,13 +14,14 @@
         }
       },
       {
-        "id": "f54bc1c6ab141651",
+        "id": "8b956b62aa3f1d53",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Factions/The Foundation.md",
-            "mode": "source"
+            "file": "Locations/The Northern Mental Institute.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/The Foundation.md",
+                "file": "Locations/The Northern Mental Institute.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,8 +125,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f54bc1c6ab141651",
+  "active": "8b956b62aa3f1d53",
   "lastOpenFiles": [
+    "Locations/The Northern Mental Institute.md",
+    "Large Events/The Dawn.md",
     "Factions/The Foundation.md",
     "Locations/The Eastern Territory Penitentiary.md",
     "Species/Flora/Glow Cane.md",
@@ -133,8 +136,6 @@
     "Species/Fauna/Kaia.md",
     "Species/Fauna/Huross.md",
     "Species/Fauna/Humans.md",
-    "Species/Fauna/Chimera.md",
-    "Pop Culture/The Blue Panther.md",
-    "Planets/Volla E539.md"
+    "Species/Fauna/Chimera.md"
   ]
 }
