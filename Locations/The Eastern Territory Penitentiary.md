@@ -6,7 +6,9 @@ The largest penitentiary in the galaxy situated next to [Ares](../Planets/Ares.m
 
 ## Description
 
-There have been countless videos of prisoners trying to escape the penitentiary to the surface, only to find them laying on the floor minutes later, dead from the heat and dehydration. Whilst there is oxygen, the pure amount of heat on the surface makes any living creature die within minutes without the necessary equipment.!
+There have been countless videos of prisoners trying to escape the penitentiary to the surface, only to find them laying on the floor minutes later, dead from the heat and dehydration. Whilst there is oxygen, the pure amount of heat on the surface makes any living creature die within minutes without the necessary equipment.
+
+The only person who has ever escaped [The Eastern Territory Penitentiary](The%20Eastern%20Territory%20Penitentiary.md) was [Centurion](../Influential%20Persons/Centurion.md), however all cameras, microphones and other media recorders were shut for her escape, leaving no trace of her escape.
 
 It is formed of around 59 levels, each one hosting a thousand prisoners. As the penitentiary is growing each day, new levels have to be built - there are 2 new built per year. Each floor has:
 

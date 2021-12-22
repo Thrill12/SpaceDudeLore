@@ -15,3 +15,18 @@ It is formed by extremely small, sub-atomic particles never encountered before i
 In order to transport something, we first have to link the dots surrounding what we want to transport with the dots of another space. Both participating dots in the "marriage" process have to be touching each other in order to be linked, and to "teleport to their spouse", a large spike of radioactivity has to occur.
 
 [The Union](../Factions/The%20Union.md) obtains [Aspite](Aspite.md) by secretly farming [Huross](../Species/Fauna/Huross.md) in a facility on the seemingly empty moon [Volla E539](../Planets/Volla%20E539.md).
+
+## Dense Aspite Exposure
+
+To efficiently transport and store [Aspite](Aspite.md), we need to compress it to fit into canisters. When compressed to high pressures, it forms a liquid, with a viscosity similar to honey. However, unlike any other compressed gas turning into a liquid, it does not turn back into a gas when uncompressed.
+
+If a person is exposed to this dense version of [Aspite](Aspite.md), you can expect:
+
+* permanent hair loss
+* blistering and flaking
+* bleeding
+* vitiligo
+* cell death
+* 3rd degree burns
+
+Because of this, one must handle [Aspite](Aspite.md) with a full body suit, gloves, helmet. if inhaled, [Aspite](Aspite.md) will cause a euphoric high, but it is extremely dangerous as even the smallest dose (eg. 2g-3g) could kill.

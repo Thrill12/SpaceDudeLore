@@ -11,6 +11,6 @@
 
 ## Biography
 
-Not much is known about her, except that she is female, and that she is deadly. Her signature M.O is leaving kiss marks on the face of the victim with their own blood. There were some rumours that she was once a part of [The Union](../Factions/The%20Union.md), however these claims are quickly shut down by [The Union](../Factions/The%20Union.md) when mentioned by anyone.
+Not much is known about her, except that she is female, she is deadly, and that she escaped from [The Eastern Territory Penitentiary](../Locations/The%20Eastern%20Territory%20Penitentiary.md). Her signature M.O is leaving kiss marks on the face of the victim with their own blood. There were some rumours that she was once a part of [The Union](../Factions/The%20Union.md), however these claims are quickly shut down by [The Union](../Factions/The%20Union.md) when mentioned by anyone.
 
 Several reports have been made of a woman reminiscent of [Centurion](Centurion.md) entering [The Foundation](../Factions/The%20Foundation.md) space, but we do not know more about her at this stage.

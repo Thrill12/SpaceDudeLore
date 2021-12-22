@@ -19,3 +19,7 @@ In order for [Foundation](The%20Foundation.md) operatives to keep their secrets 
 ## [D.C.F.M](../Locations/Division%20of%20Classified%20Foundation%20Milestones.md)
 
 [The Foundation](The%20Foundation.md) has known of the [Kaia](../Species/Fauna/Kaia.md) for possibly hundreds of years, but they have kept it under wraps in order to avert panic and concentrate on dealing with [The Union](The%20Union.md).
+
+## New Earth Republic
+
+The New Earth Republic is the public name that [The Foundation](The%20Foundation.md) uses when it needs to do very public actions. Most people that are part of 

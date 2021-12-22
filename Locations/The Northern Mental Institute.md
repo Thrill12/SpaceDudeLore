@@ -14,6 +14,8 @@ It uses power from the nearby thermal vents on [Perth](../Planets/Perth.md), and
 
 In the lower subterranean levels of [The Northern Mental Institute](The%20Northern%20Mental%20Institute.md), there are rumours of [The Union](../Factions/The%20Union.md) testing their latest biological and psychological weapons on the patients there.
 
+Some cargo ships were also tracked to leave from here and go to [The Eastern Territory Penitentiary](The%20Eastern%20Territory%20Penitentiary.md), which some think that they are transporting mind-altering chemicals or torture chemicals in order to investigate and interrogate high-risk prisoners.
+
 ### Notable attendees
 
 1. [Dr. J. Lanipekun](../Influential%20Persons/Dr.%20J.%20Lanipekun.md)

@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "449b45c080b4f60e",
+        "id": "2eb5fb960e9dda34",
         "type": "leaf",
         "pinned": true,
         "state": {
@@ -14,12 +14,12 @@
         }
       },
       {
-        "id": "334ca89f7af118c3",
+        "id": "ae00502939a7d586",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/The Northern Mental Institute.md",
+            "file": "Factions/New Earth Republic.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/The Northern Mental Institute.md",
+                "file": "Factions/New Earth Republic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,17 +124,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "334ca89f7af118c3",
+  "active": "ae00502939a7d586",
   "lastOpenFiles": [
-    "Locations/The Northern Mental Institute.md",
-    "Locations/The Reformed Research Laboratory.md",
-    "Locations/The States.md",
-    "Locations/The Foundation Headquarters.md",
-    "Locations/The Eastern Territory Penitentiary.md",
-    "Influential Persons/Barteus Cromley.md",
-    "Planets/Volla E539.md",
-    "Planets/Thov.md",
-    "Planets/Thiyotis.md",
-    "Planets/Theo.md"
+    "Factions/New Earth Republic.md",
+    "Influential Persons/Nick Valentine.md",
+    "Large Events/The Dawn.md",
+    "Factions/The Union.md",
+    "Factions/The Foundation.md",
+    "Materials/Aspite.md",
+    "Locations/Division of Classified Foundation Milestones.md",
+    "Locations/Dr S. Debreto's Laboratory.md",
+    "Locations/Interplanetary Botanical Association.md",
+    "Locations/The Astro-Academy.md"
   ]
 }
