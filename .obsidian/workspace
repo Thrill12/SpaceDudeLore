@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "50b9a4658cbe4a2c",
+    "id": "8f45b8a6189fa09a",
     "type": "split",
     "children": [
       {
-        "id": "d351eefcf48e8491",
+        "id": "449b45c080b4f60e",
         "type": "leaf",
         "pinned": true,
         "state": {
@@ -14,11 +14,14 @@
         }
       },
       {
-        "id": "995a9e23b963f930",
+        "id": "334ca89f7af118c3",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Locations/The Northern Mental Institute.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -75,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Locations/The Northern Mental Institute.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,17 +124,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "995a9e23b963f930",
+  "active": "334ca89f7af118c3",
   "lastOpenFiles": [
-    "Pasted image 20211221235324.png.md",
-    "Planets/Volla E539 Image.png",
+    "Locations/The Northern Mental Institute.md",
+    "Locations/The Reformed Research Laboratory.md",
+    "Locations/The States.md",
+    "Locations/The Foundation Headquarters.md",
+    "Locations/The Eastern Territory Penitentiary.md",
+    "Influential Persons/Barteus Cromley.md",
     "Planets/Volla E539.md",
     "Planets/Thov.md",
     "Planets/Thiyotis.md",
-    "Planets/Theo.md",
-    "Planets/Pirth.md",
-    "Planets/Perth.md",
-    "Planets/Earth.md",
-    "Planets/Demeter.md"
+    "Planets/Theo.md"
   ]
 }

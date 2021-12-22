@@ -1,7 +1,5 @@
 [#Planet]
 
-![](Ares%20Image.png)
-
 ## Summary
 
 A desert planet with its main population being the incarcerated people from [The Eastern Territory Penitentiary](../Locations/The%20Eastern%20Territory%20Penitentiary.md). Its landscape doesn't permit much building, however the [Penitentiary](../Locations/The%20Eastern%20Territory%20Penitentiary.md) was built 5km underground to avoid the extreme heat of the surface.

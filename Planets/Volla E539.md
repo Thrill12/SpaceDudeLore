@@ -1,7 +1,5 @@
 [#Planet]
 
-![](Volla%20E539%20Image.png)
-
 ## Summary
 
 Seemingly empty moon with extremely active plate tectonics. These create an earthquake approximately every 73 seconds.

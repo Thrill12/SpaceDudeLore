@@ -1,7 +1,5 @@
 [#Planet]
 
-![](Demeter%20Image.png)
-
 ## Summary
 
 Forested planet on which [Glow Cane](../Species/Flora/Glow%20Cane.md) originates from. Almost every square kilometer on this planet is covered in flora that is very similar to [Earth's](Earth.md).

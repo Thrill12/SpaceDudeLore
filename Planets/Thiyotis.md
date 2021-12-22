@@ -1,7 +1,5 @@
 [#Planet]
 
-![](Thiyotis%20Image.png)
-
 ## Summary
 
 With mainly igneous rock on the surface and many volcanic eruptions per day, the surface of [Thiyotis](Thiyotis.md) welcomes visitors with a hellish landscape. Once you dig past the surface though, you are greeted by an environment similar to caves on [Earth](Earth.md)
