@@ -1,6 +1,6 @@
 [#Planet]
 
-![](Pasted%20image%2020211221235427.png)
+![](Demeter%20Image.png)
 
 ## Summary
 

@@ -1,6 +1,6 @@
 [#Planet]
 
-![](Pasted%20image%2020211221235359.png)
+![](Bograugantunatu%20Image.png)
 
 ## Summary
 

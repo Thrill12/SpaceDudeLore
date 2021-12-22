@@ -1,5 +1,7 @@
 [#Planet]
 
+![](Pirth%20Image.png)
+
 ## Summary
 
 An icy planet in the North of the galaxy, it orbits calmly with its sister planet [Perth](Perth.md). They form [The Frost Tips'](../Factions/Frost%20Tips.md) home, and have guarded their egotistical adventures for decades.

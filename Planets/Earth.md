@@ -1,6 +1,6 @@
 [#Planet]
 
-![](Pasted%20image%2020211221235438.png)
+![](Earth%20Image.png)
 
 ## Summary
 

@@ -14,14 +14,11 @@
         }
       },
       {
-        "id": "9bd611116fa886a3",
+        "id": "995a9e23b963f930",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Planets/Earth.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -78,7 +75,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planets/Earth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,17 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9bd611116fa886a3",
+  "active": "995a9e23b963f930",
   "lastOpenFiles": [
-    "Planets/Earth.md",
-    "Planets/Demeter.md",
-    "Planets/Cazion.md",
-    "Planets/Bograugantunatu.md",
-    "Planets/Ares.md",
-    "Planets/6AB9HJG.md",
+    "Pasted image 20211221235324.png.md",
+    "Planets/Volla E539 Image.png",
     "Planets/Volla E539.md",
-    "Locations/The Eastern Territory Penitentiary.md",
-    "Influential Persons/Barteus Cromley.md",
-    "Factions/The Foundation.md"
+    "Planets/Thov.md",
+    "Planets/Thiyotis.md",
+    "Planets/Theo.md",
+    "Planets/Pirth.md",
+    "Planets/Perth.md",
+    "Planets/Earth.md",
+    "Planets/Demeter.md"
   ]
 }
