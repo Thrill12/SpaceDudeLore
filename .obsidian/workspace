@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8b956b62aa3f1d53",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "juggl_view",
-          "state": {},
-          "pinned": true
-        }
-      },
-      {
-        "id": "ffcf57907f3fae55",
+        "id": "d03cfa036fc4775d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Items/Weapons/Physical/Plasteel Gauntlet.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -79,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/Weapons/Physical/Plasteel Gauntlet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,17 +110,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ffcf57907f3fae55",
+  "active": "d03cfa036fc4775d",
   "lastOpenFiles": [
-    "Items/Weapons/Physical/Plasteel Gauntlet.md",
-    "Items/Weapons/Physical/MH53 Gauss Rifle.md",
     "Items/Armour/TL5 Suit.md",
     "Items/Armour/Cloaking Vest.md",
+    "Items/Components/Quantum Wave Drive.md",
     "Items/Weapons/Energy/Polaroid Gun.md",
+    "Items/Weapons/Physical/MH53 Gauss Rifle.md",
+    "Items/Weapons/Physical/Plasteel Gauntlet.md",
     "Items/Weapons/Untitled.md",
     "Factions/Dynasty Roses.md",
     "Factions/Kaias.md",
-    "Factions/New Earth Republic.md",
-    "Locations/The Northern Mental Institute.md"
+    "Factions/New Earth Republic.md"
   ]
 }
