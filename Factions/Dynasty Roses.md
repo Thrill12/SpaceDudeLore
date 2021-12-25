@@ -1,5 +1,7 @@
 [#Faction]
 
+# Dynasty Roses
+
 ## Summary
 
 This faction is a neutral bunch of people from all over the galaxy all obsessed with one thing: [Glow Cane](../Species/Flora/Glow%20Cane.md). They will go to any length in order to protect their [Glow Cane](../Species/Flora/Glow%20Cane.md) and to gain more. However, they will not engage in hostilities for any other reason, unless defensively.

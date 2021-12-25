@@ -1,5 +1,7 @@
 [#Faction]
 
+# The Foundation
+
 ## Summary
 
 Created with the idea of eliminating [The Union](The%20Union.md) from the face of the galaxy and liberating the people, it's a shadow corporation funded by mainly illicit means.

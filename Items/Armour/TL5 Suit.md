@@ -1,5 +1,7 @@
 [#Item, #Armour]
 
+# TL5 Suit
+
 ## Summary
 
 A large, plasteel exoskeleton that increases the wearer's physical capabilities. It is mostly used in mines around the galaxy as a way to increase the effectiveness of workers without giving them better or more food, better accommodation, etc.

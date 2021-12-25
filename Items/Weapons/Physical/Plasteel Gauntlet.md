@@ -1,5 +1,7 @@
 [#Item, #Weapon]
 
+# Plasteel Gauntlet
+
 ## Summary
 
 A large pair of plasteel gauntlets around 200kg in mass, the wearer must also wear a [TL5 Suit](../../Armour/TL5%20Suit.md) to hold the gauntlets without doing any damage to their bones.

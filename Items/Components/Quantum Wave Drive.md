@@ -1,5 +1,7 @@
 [#Item, #Component]
 
+# Quantum Wave Drive
+
 ## Summary
 
 Based on the principle of [Quantum Wave](Quantum%20Wave.md) technology, this high-tech drive uses [Aspite](../../Materials/Aspite.md) to exploit [Quantum Waves](Quantum%20Wave.md) in order to transport large masses quickly across space.

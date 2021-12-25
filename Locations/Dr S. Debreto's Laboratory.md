@@ -1,5 +1,7 @@
 [#Locations]
 
+# Dr. S. Debreto's Laboratory
+
 ## Summary
 
 Situated on the surface on [Bograugantunatu](../Planets/Bograugantunatu.md), it was once a highly prestigious place in which scholars from around the galaxy would come and discuss the latest scientific breakthroughs. It was destroyed when [The Union](../Factions/The%20Union.md) found [Dr S. Debreto's](../Influential%20Persons/Dr%20S.%20Debreto.md) experiments with [The Huross](../Species/Fauna/Huross.md). It has not been found ever since.

@@ -1,5 +1,7 @@
 [#Faction]
 
+# The Union
+
 ## Summary
 
 First founded after [The Dawn](../Large%20Events/The%20Dawn.md) to try to keep the people under control. It has traditionally been led by previous, proven members of government and sometimes even leaders of other planets, but has recently turned to be led by leaders from [Cazion](../Planets/Cazion.md).

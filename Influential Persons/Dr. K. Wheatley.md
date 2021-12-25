@@ -1,5 +1,9 @@
 [#InfluentialPerson]
 
+# Krasmus Wheatley
+
+## Summary
+
 ### NAME: |Krasmus Wheatley|
 ### D.O.B: |UNDISCLOSED|
 ### SEX: |M|

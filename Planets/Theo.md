@@ -1,5 +1,7 @@
 [#Planet]
 
+# Theo
+
 ## Summary
 
 Now extinct planet due to [The Thiyotis Detonation](../Large%20Events/Thiyotis%20Detonation.md), it used to host the interplanetary Olympics every year. Since its detonation, no official interplanetary sports competition has been held.

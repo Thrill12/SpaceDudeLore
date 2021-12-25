@@ -1,5 +1,7 @@
 [#Species]
 
+# Mackal
+
 ## Summary
 
 A small species of mammals, akin to dogs and cats, farmed for sustenance on [Pirth](../../Planets/Pirth.md). They are fast and have their homes in caves.

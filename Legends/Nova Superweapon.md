@@ -1,5 +1,7 @@
 [#Legend]
 
+# Nova Superweapon
+
 ## Summary
 
 A number of people have reported that some patients from [The Northern Mental Institute](../Locations/The%20Northern%20Mental%20Institute.md) are working on a potentially galaxy-threatening super-weapon, but no concrete evidence has been found.

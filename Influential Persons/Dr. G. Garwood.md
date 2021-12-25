@@ -1,5 +1,7 @@
 [#InfluentialPerson]
 
+# Dr. G. Garwood
+
 ## Summary
 
 ### NAME: |GARETH GARWOOD|

@@ -1,5 +1,7 @@
 [#Planet]
 
+# Thov
+
 ## Summary
 
 Currently a relatively unpopulated planet with a very high secrecy level. It is home to [The Foundation Headquarters](../Locations/The%20Foundation%20Headquarters.md)[](../Factions/The%20Foundation.md), and has been since its establishment.

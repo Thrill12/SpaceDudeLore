@@ -1,5 +1,7 @@
 [#Item, #Weapon]
 
+# MH53 Gauss Rifle
+
 ## Summary
 
 ### AMMO-TYPE: |PHYSICAL|

@@ -1,5 +1,7 @@
 [#InfluentialPerson]
 
+# Nick Valentine
+
 ## Summary
 
 ### NAME: |NICK VALENTINE|

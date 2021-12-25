@@ -1,5 +1,7 @@
 [#InfluentialPerson]
 
+# The Chief Council
+
 ## Summary
 
 A group of former [Union](../Factions/The%20Union.md), [Foundation](../Factions/The%20Foundation.md) and [Frost Tips](../Factions/Frost%20Tips.md) leaders, it currently runs [The Foundation](../Factions/The%20Foundation.md) in secret from [The Foundation Headquarters](../Locations/The%20Foundation%20Headquarters.md) on [Thov](../Planets/Thov.md).

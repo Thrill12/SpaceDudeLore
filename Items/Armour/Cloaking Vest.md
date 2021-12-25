@@ -1,5 +1,7 @@
 [#Item, #Armour]
 
+# Cloaking Vest
+
 ## Summary
 
 This extremely delicate fabric incorporates [Kaia](../../Species/Fauna/Kaia.md) scales into its weave, and it can be commanded to transform into its reflective state when enough current is passed through it.

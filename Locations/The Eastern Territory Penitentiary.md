@@ -1,5 +1,7 @@
 [#Location]
 
+# The Eastern Territory Penitentiary
+
 ## Summary
 
 The largest penitentiary in the galaxy situated next to [Ares](../Planets/Ares.md), it holds an astoundingly large number of prisoners: 58,683. Thousands of prisoners are transported to and from other penitentiaries around the galaxy each day, intimidating anyone who would dare to set foot on this planet.

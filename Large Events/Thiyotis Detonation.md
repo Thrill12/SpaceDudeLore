@@ -1,5 +1,7 @@
 [#LargeEvent]
 
+# Thiyotis Detonation
+
 ## Summary
 
 On the 2nd of January, [2312](../Notable%20Years/2312.md), scientists experimented with [D.M. Cores](../Physics/D.M.%20Core.md) on the surface of the planet, in one of [Humanity's](../Species/Fauna/Humans.md) largest research facilities: [The Reformed Research Laboratory](../Locations/The%20Reformed%20Research%20Laboratory.md).

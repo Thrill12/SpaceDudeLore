@@ -1,5 +1,7 @@
 [#InfluentialPerson]
 
+# Dr. J. Lanipekun
+
 ## Summary
 
 ### NAME: |JAKE LANIPEKUN|

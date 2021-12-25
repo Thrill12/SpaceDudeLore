@@ -1,5 +1,7 @@
 [#Species, #Fauna]
 
+# Kaia
+
 ## Summary
 
 Ruthless in nature and incredibly tough and agile, these insect-like aliens are sure to frighten any commander that comes across them. Few downsides when it comes to physical prowess, however not as technologically advanced as the humans, which is why they haven't spread into the [Galaxy](../../Galaxy/Galaxy.md) as far.

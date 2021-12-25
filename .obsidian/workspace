@@ -12,6 +12,18 @@
           "state": {},
           "pinned": true
         }
+      },
+      {
+        "id": "35d3567445218688",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Species/Flora/Glow Cane.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -67,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Species/Flora/Glow Cane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,17 +125,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2c352abbf1c57433",
+  "active": "35d3567445218688",
   "lastOpenFiles": [
-    "Factions/The Union.md",
-    "Factions/The Foundation.md",
-    "Items/Armour/TL5 Suit.md",
-    "Items/Armour/Cloaking Vest.md",
-    "Items/Components/Quantum Wave Drive.md",
-    "Items/Weapons/Energy/Polaroid Gun.md",
-    "Items/Weapons/Physical/MH53 Gauss Rifle.md",
-    "Items/Weapons/Physical/Plasteel Gauntlet.md",
-    "Items/Weapons/Untitled.md",
-    "Factions/Dynasty Roses.md"
+    "Species/Flora/Glow Cane.md",
+    "Species/Fauna/Mackal.md",
+    "Species/Fauna/Kaia.md",
+    "Species/Fauna/Huross.md",
+    "Species/Fauna/Humans.md",
+    "Species/Fauna/Chimera.md",
+    "Pop Culture/The Blue Panther.md",
+    "Planets/Volla E539.md",
+    "Planets/Thov.md",
+    "Planets/Thiyotis.md"
   ]
 }

@@ -1,5 +1,7 @@
 [#Species, #Fauna]
 
+# Huross
+
 ## Summary
 
 First originated on the planet [Bograugantunatu](../../Planets/Bograugantunatu.md), they escaped and civilization across the galaxy was almost aware of their presence. Hired contractors were paid immense sums of money to get rid of any proof of their existence to keep the people under control.

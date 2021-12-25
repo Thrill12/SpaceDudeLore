@@ -1,5 +1,7 @@
 [#Faction]
 
+# New Earth Republic
+
 ## Summary
 
 A fake faction acting as a face for [The Foundation](The%20Foundation.md) to publicly influence the galaxy without publicizing their own name. It was formed around when [The Union](The%20Union.md) was created in order to keep a balance against it. 

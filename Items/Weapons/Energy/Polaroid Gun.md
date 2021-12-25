@@ -1,5 +1,7 @@
 [#Item, #Weapon]
 
+# Polaroid Gun
+
 ## Summary
 
 ### AMMO-TYPE: |ENERGY|

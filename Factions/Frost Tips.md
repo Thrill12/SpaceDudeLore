@@ -1,5 +1,7 @@
 [#Faction]
 
+# Frost Tips
+
 ## Summary
 
 They are egotistical men for hire who only work for their own benefit, and won't be afraid to backstab anyone that wants to team up with them.

@@ -1,5 +1,7 @@
 [#Species, #Flora]
 
+# Glow C
+
 ## Summary
 
 A yellow plant that grows along large trees. When burned, its fumes invoke a high in any creature that inhales it, and there are no physical long-term consequences other than the euphoric sensation people get.

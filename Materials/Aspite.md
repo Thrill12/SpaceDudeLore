@@ -1,5 +1,7 @@
 [#Material]
 
+# Aspite
+
 ## Summary
 
 A substance used as fuel for the [Quantum Wave Drive](../Items/Components/Quantum%20Wave%20Drive.md) and contained in [Huross](../Species/Fauna/Huross.md) blood and artifacts.
