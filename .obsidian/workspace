@@ -4,25 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "d03cfa036fc4775d",
+        "id": "2c352abbf1c57433",
         "type": "leaf",
         "pinned": true,
         "state": {
           "type": "juggl_view",
           "state": {},
           "pinned": true
-        }
-      },
-      {
-        "id": "7c636a678eed14dc",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Factions/The Union.md",
-            "mode": "source",
-            "source": false
-          }
         }
       }
     ],
@@ -79,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/The Union.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +112,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7c636a678eed14dc",
+  "active": "2c352abbf1c57433",
   "lastOpenFiles": [
     "Factions/The Union.md",
     "Factions/The Foundation.md",
