@@ -1,6 +1,6 @@
 [#Species, #Flora]
 
-# Glow C
+# Glow Cane
 
 ## Summary
 

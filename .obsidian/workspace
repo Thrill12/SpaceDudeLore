@@ -19,7 +19,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Species/Flora/Glow Cane.md",
+            "file": "Influential Persons/Dr. J. Lanipekun.md",
             "mode": "source",
             "source": false
           }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Species/Flora/Glow Cane.md",
+                "file": "Influential Persons/Dr. J. Lanipekun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,15 +127,15 @@
   },
   "active": "35d3567445218688",
   "lastOpenFiles": [
+    "Influential Persons/Dr. J. Lanipekun.md",
+    "Planets/Cazion.md",
+    "Planets/Perth.md",
+    "Planets/Ares.md",
     "Species/Flora/Glow Cane.md",
     "Species/Fauna/Mackal.md",
     "Species/Fauna/Kaia.md",
     "Species/Fauna/Huross.md",
     "Species/Fauna/Humans.md",
-    "Species/Fauna/Chimera.md",
-    "Pop Culture/The Blue Panther.md",
-    "Planets/Volla E539.md",
-    "Planets/Thov.md",
-    "Planets/Thiyotis.md"
+    "Species/Fauna/Chimera.md"
   ]
 }
