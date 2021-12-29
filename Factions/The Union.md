@@ -15,3 +15,5 @@ They believe that the human race, the pure human race, was always and always wil
 Their favourite thing to do seems to silence the people that oppose them. An example is them silencing the past people of [Earth](../Planets/Earth.md), from before [The Dawn](../Large%20Events/The%20Dawn.md) in a time where people weren't as spread out through the galaxy as now. 
 
 [New Earth Republic](New%20Earth%20Republic.md) has been trying to fight [The Union](The%20Union.md) since its creation after [The Dawn](../Large%20Events/The%20Dawn.md), slowly gaining ground. People have slowly began to trust the [NER](New%20Earth%20Republic.md), and [The Union](The%20Union.md) can't silence them anymore: the fight is on.
+
+Recently, they have been investigating energy spikes from the galaxy's central black hole, with anomalies ranging as far as 50x the normal amount of cosmic background radiation.
