@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Planets/6AB9HJG.md",
+            "file": "Factions/The Foundation.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planets/6AB9HJG.md",
+                "file": "Factions/The Foundation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +117,7 @@
   },
   "active": "51819fedef68f504",
   "lastOpenFiles": [
+    "Factions/The Foundation.md",
     "Planets/6AB9HJG.md",
     "Factions/The Union.md",
     "Influential Persons/Dr. J. Lanipekun.md",
@@ -125,7 +126,6 @@
     "Planets/Ares.md",
     "Species/Flora/Glow Cane.md",
     "Species/Fauna/Mackal.md",
-    "Species/Fauna/Kaia.md",
-    "Species/Fauna/Huross.md"
+    "Species/Fauna/Kaia.md"
   ]
 }
