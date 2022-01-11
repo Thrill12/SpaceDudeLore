@@ -6,13 +6,11 @@
       {
         "id": "51819fedef68f504",
         "type": "leaf",
+        "pinned": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Factions/The Foundation.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "juggl_view",
+          "state": {},
+          "pinned": true
         }
       }
     ],
@@ -69,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/The Foundation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +114,8 @@
   },
   "active": "51819fedef68f504",
   "lastOpenFiles": [
+    "Species/Fauna/Lumi-Ray.md",
+    "Species/Fauna/Kaia.md",
     "Factions/The Foundation.md",
     "Planets/6AB9HJG.md",
     "Factions/The Union.md",
@@ -124,8 +123,6 @@
     "Planets/Cazion.md",
     "Planets/Perth.md",
     "Planets/Ares.md",
-    "Species/Flora/Glow Cane.md",
-    "Species/Fauna/Mackal.md",
-    "Species/Fauna/Kaia.md"
+    "Species/Flora/Glow Cane.md"
   ]
 }
