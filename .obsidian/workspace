@@ -12,6 +12,18 @@
           "state": {},
           "pinned": true
         }
+      },
+      {
+        "id": "98f92a3b529a59e8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Species/Fauna/Lumi-Ray.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -67,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Species/Fauna/Lumi-Ray.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "51819fedef68f504",
+  "active": "98f92a3b529a59e8",
   "lastOpenFiles": [
     "Species/Fauna/Lumi-Ray.md",
     "Species/Fauna/Kaia.md",
