@@ -4,13 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2cce52d567f5a525",
+        "id": "3f2170d5c6df222f",
         "type": "leaf",
-        "pinned": true,
         "state": {
-          "type": "juggl_view",
-          "state": {},
-          "pinned": true
+          "type": "markdown",
+          "state": {
+            "file": "Large Events/The Dawn.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -67,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Large Events/The Dawn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,8 +115,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2cce52d567f5a525",
+  "active": "3f2170d5c6df222f",
   "lastOpenFiles": [
+    "Large Events/The Dawn.md",
+    "Large Events/Thiyotis Detonation.md",
     "Factions/The Union.md",
     "Factions/The Foundation.md",
     "Factions/New Earth Republic.md",
@@ -121,8 +126,6 @@
     "Factions/Frost Tips.md",
     "Factions/Dynasty Roses.md",
     "Species/Fauna/Lumi-Ray.md",
-    "Species/Fauna/Kaia.md",
-    "Planets/6AB9HJG.md",
-    "Influential Persons/Dr. J. Lanipekun.md"
+    "Species/Fauna/Kaia.md"
   ]
 }
