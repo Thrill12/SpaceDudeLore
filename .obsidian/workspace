@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3f2170d5c6df222f",
+        "id": "7e581cd8baed8b13",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Large Events/The Dawn.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Large Events/The Dawn.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             }
           },
           {
-            "id": "2fe853250f556cd1",
+            "id": "8e069a67bef1b569",
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
@@ -100,32 +100,31 @@
             }
           },
           {
-            "id": "2d29df26505105d1",
+            "id": "0973ec4478f0af98",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "3f2170d5c6df222f",
+  "active": "7e581cd8baed8b13",
   "lastOpenFiles": [
-    "Large Events/The Dawn.md",
-    "Large Events/Thiyotis Detonation.md",
-    "Factions/The Union.md",
-    "Factions/The Foundation.md",
-    "Factions/New Earth Republic.md",
-    "Factions/Kaias.md",
-    "Factions/Frost Tips.md",
-    "Factions/Dynasty Roses.md",
-    "Species/Fauna/Lumi-Ray.md",
-    "Species/Fauna/Kaia.md"
+    "README.md",
+    "Locations/The Sins.md",
+    "Locations/The States.md",
+    "Items/Components/Quantum Wave Drive.md",
+    "Locations/The Northern Mental Institute.md",
+    "Notable Years/2421.md",
+    "Locations/The Reformed Research Laboratory.md",
+    "Locations/Division of Classified Foundation Milestones.md",
+    "Locations/Dr S. Debreto's Laboratory.md",
+    "Locations/Interplanetary Botanical Association.md"
   ]
 }
