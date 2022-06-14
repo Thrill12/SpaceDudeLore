@@ -8,7 +8,7 @@ Situated on the surface on [Bograugantunatu](../Planets/Bograugantunatu.md), it 
 
 ## Description
 
-It once hosted the largest scientific yearly gatherings in the galaxy, with halls spanning hundreds of feet, all full of displays of marvelous science from various inventors. People like [Dr. J. Lanipekun](../Influential%20Persons/Dr.%20J.%20Lanipekun.md) visited this place to gasp at how much science there was being done around the galaxy.
+It once hosted the largest scientific yearly gatherings in the galaxy, with halls spanning hundreds of feet, all full of displays of marvelous science from various inventors. People like [Dr. J. Pekulani](../Influential%20Persons/Dr.%20J.%20Pekulani.md) visited this place to gasp at how much science there was being done around the galaxy.
 
 Nowadays, it is merely an afterthought of people when they think of science. A faint memory for some, a legend for others. What everyone knows as fact though, is that without [Dr S. Debreto](../Influential%20Persons/Dr%20S.%20Debreto.md), there would be no [Quantum Wave Drive](../Items/Components/Quantum%20Wave%20Drive.md) and thus everyone thanks him in their mind.
 

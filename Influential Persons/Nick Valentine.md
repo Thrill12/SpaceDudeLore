@@ -2,12 +2,16 @@
 
 # Nick Valentine
 
+*Voice actor notes* - A loud, over-confident man who never takes no for an answer even in situations in which that can have bad consequences. He will always take an opportunity to gain more money and will betray his closest people for the lowest of prices, however his confidence is key in all conversations he partakes in. 
+
 ## Summary
 
 ### NAME: |NICK VALENTINE|
 ### D.O.B: |07.11.2647|
 ### SEX: |M|
-### STATUS: |LEADER OF [NEW EARTH REPUBLIC](../Factions/New%20Earth%20Republic.md)|
+### STATUS: |ACTIVE|
+
+# Text below mostly outdated, still read
 
 ## Biography
 

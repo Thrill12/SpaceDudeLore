@@ -2,14 +2,13 @@
 
 # Dr. J. Lanipekun
 
+*Voice actor notes* - A calculated individual who loves debating on the philosophies of life. He was interested in science but often found himself longing for something more, something he has been missing his whole life. A mist of uncertainty surrounds his every action.
+
 ## Summary
 
-### NAME: |JAKE LANIPEKUN|
-### D.O.B: |16.06.2345|
-### DEATH: |8.10.2407|
+### NAME: |JACQUES PEKULANI|
 ### SEX: |M|
-### STATUS: |DEAD|
-### CAUSE OF DEATH: |UNKNOWN|
+### STATUS: |MISSING|
 
 ## Biography
 

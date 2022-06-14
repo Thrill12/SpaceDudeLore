@@ -11,7 +11,7 @@ A group of former [Union](../Factions/The%20Union.md), [Foundation](../Factions/
 This group is composed of 3 people, each of them contributing to all of [The Foundation's](../Factions/The%20Foundation.md) departments.
 
 The people are as follows:
-- [Dr. K. Wheatley](Dr.%20K.%20Wheatley.md)
+- [K. Wheatley](K.%20Wheatley.md)
 - [Eli Murray](Eli%20Murray.md)
 - [Avery Meadows](Avery%20Meadows.md)
 

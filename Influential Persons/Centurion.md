@@ -2,6 +2,8 @@
 
 # Centurion
 
+*Voice actor notes* - Menacing and mysterious, she always looks out for herself first, and for the money she gets paid to do her jobs. She always keeps her sight on money, but past trauma sometimes hits her.
+
 ## Summary
 
 ### NAME: |UNKNOWN|
@@ -10,6 +12,8 @@
 ### AGE: |UNKNOWN|
 ### P.O.O.: |UNKNOWN|
 ### STATUS: |ACTIVE|
+
+# Text below mostly outdated, still read
 
 ## Biography
 

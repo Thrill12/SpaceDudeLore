@@ -9,6 +9,8 @@
 ### SEX: |NB|
 ### STATUS: |ACTIVE|
 
+# Text below mostly outdated, still read
+
 ## Biography
 
 Eli was always considered to be the smartest one in the room conventionally, but when it comes to people, they can feel even the slightest tremors in their truths and immediately feel if something is off.

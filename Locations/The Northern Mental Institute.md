@@ -4,7 +4,7 @@
 
 ## Summary
 
-First established in [2421](../Notable%20Years/2421.md) to host the [Galaxy's](../Galaxy/Galaxy.md) craziest people, it now accommodates around 15000 different patients. Some have more troubling pasts than others, but one thing is common between all of them: none of them possess any type of empathy, sympathy, or compassion for others.
+First established in [2421](../Notable%20Years/2421.md) to host the [Galaxy's](../Galaxy/Galaxy.md) mentally unhealthy, it now accommodates around 15000 different patients. Some have more troubling pasts than others, but one thing is common between all of them: none of them possess any type of empathy, sympathy, or compassion for others.
 
 ## Description
 
@@ -20,4 +20,4 @@ Some cargo ships were also tracked to leave from here and go to [The Eastern Ter
 
 ### Notable attendees
 
-1. [Dr. J. Lanipekun](../Influential%20Persons/Dr.%20J.%20Lanipekun.md)
+1. [Dr. J. Pekulani](../Influential%20Persons/Dr.%20J.%20Pekulani.md)

@@ -2,9 +2,11 @@
 
 # Barteus Cromley
 
+*Voice actor notes* - reminiscent of Virgil from Fallout 4. Extremely street wise and knows how to handle himself around any kind of people, but looks like your stereotypical strong guy. Will do whatever is necessary for money and infamy, however will also protect his friends and family more than anything.
+
 ## Summary
 
-### NAME: |Barteus Cromley|
+### NAME: |BARTEUS CROMLEY|
 ### D.O.B: |13.08.2620|
 ### SEX: |M|
 ### STATUS: |IMPRISONED|
