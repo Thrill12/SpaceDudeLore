@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Influential Persons/Avery Meadows.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Influential Persons/Avery Meadows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +116,8 @@
   },
   "active": "7e581cd8baed8b13",
   "lastOpenFiles": [
+    "Influential Persons/Avery Meadows.md",
+    "Influential Persons/The Chief Council.md",
     "README.md",
     "Locations/The Sins.md",
     "Locations/The States.md",
@@ -123,8 +125,6 @@
     "Locations/The Northern Mental Institute.md",
     "Notable Years/2421.md",
     "Locations/The Reformed Research Laboratory.md",
-    "Locations/Division of Classified Foundation Milestones.md",
-    "Locations/Dr S. Debreto's Laboratory.md",
-    "Locations/Interplanetary Botanical Association.md"
+    "Locations/Division of Classified Foundation Milestones.md"
   ]
 }
