@@ -2,6 +2,8 @@
 
 # Eli Murray
 
+*Voice actor notes* - Still young, they have been fostered through many different homes until settling. They lack confidence, however they make up for it by being extremely talented at reading people. They can often tell what anyone is thinking or is planning to do, and their brain can put together clues from a puzzle extremely quickly. 
+
 ## Summary
 
 ### NAME: |ELI MURRAY|

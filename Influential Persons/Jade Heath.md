@@ -2,6 +2,8 @@
 
 # Jade Heath
 
+*Voice actor notes* - She has had a rough past with an even rougher present, but she always manages to just scrape by, whether by begging for food or finishing off large groups of gang members all by herself. She has a grand view of herself, and looks down upon others, often mocking people in their speech or actions, trying to do a better job herself.
+
 ## Summary
 
 ### NAME: |JADE HEATH|
