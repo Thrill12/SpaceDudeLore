@@ -10,13 +10,11 @@
           {
             "id": "7e581cd8baed8b13",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Influential Persons/Rick Clementine.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true
             }
           }
         ]
@@ -77,7 +75,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Influential Persons/Rick Clementine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +121,8 @@
   },
   "active": "7e581cd8baed8b13",
   "lastOpenFiles": [
+    "Factions/The Union.md",
+    "Planets/Earth.md",
     "Influential Persons/Rick Clementine.md",
     "Influential Persons/K. Wheatley.md",
     "Influential Persons/Jade Heath.md",
@@ -131,8 +130,6 @@
     "Influential Persons/Dr. J. Pekulani.md",
     "Influential Persons/Dr. G. Wood.md",
     "Influential Persons/Dr S. Debreto.md",
-    "Influential Persons/Centurion.md",
-    "Influential Persons/Barteus Cromley.md",
-    "Influential Persons/Avery Meadows.md"
+    "Influential Persons/Centurion.md"
   ]
 }
