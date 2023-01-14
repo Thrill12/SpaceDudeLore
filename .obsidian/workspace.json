@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f8eb79a96279acb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/The Black Diamond.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/Frost Tips.md",
+                "file": "Locations/The Black Diamond.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,17 +145,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "89baa9bb3ca418c5",
+  "active": "f8eb79a96279acb9",
   "lastOpenFiles": [
+    "Locations/The Eastern Territory Penitentiary.md",
+    "Locations/The Black Diamond.md",
+    "Locations/The Astro-Academy.md",
+    "Locations/Interplanetary Botanical Association.md",
+    "Factions/Frost Tips.md",
     "Influential Persons/K. Wheatley.md",
     "Influential Persons/The Chief Council.md",
     "Influential Persons/Avery Meadows.md",
     "Influential Persons/Rick Clementine.md",
-    "Influential Persons/Dr. J. Pekulani.md",
-    "Influential Persons/Dr. G. Wood.md",
-    "Influential Persons/Dr S. Debreto.md",
-    "Locations/Fantasia.md",
-    "Untitled 1.canvas",
-    "Untitled.canvas"
+    "Influential Persons/Dr. J. Pekulani.md"
   ]
 }
