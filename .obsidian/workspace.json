@@ -11,8 +11,12 @@
             "id": "89baa9bb3ca418c5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Influential Persons/Rick Clementine.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Influential Persons/Rick Clementine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,15 +134,15 @@
   },
   "active": "89baa9bb3ca418c5",
   "lastOpenFiles": [
-    "Locations/Fantasia.md",
-    "Untitled.canvas",
-    "Influential Persons/K. Wheatley.md",
-    "Locations/The States.md",
-    "Locations/The Reformed Research Laboratory.md",
     "Influential Persons/Dr. J. Pekulani.md",
     "Influential Persons/Dr. G. Wood.md",
     "Influential Persons/Dr S. Debreto.md",
-    "Large Events/Thiyotis Detonation.md",
-    "Physics/D.M. Core.md"
+    "Influential Persons/Avery Meadows.md",
+    "Locations/Fantasia.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Influential Persons/K. Wheatley.md",
+    "Locations/The States.md",
+    "Locations/The Reformed Research Laboratory.md"
   ]
 }

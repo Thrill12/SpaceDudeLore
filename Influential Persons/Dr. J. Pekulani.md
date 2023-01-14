@@ -1,6 +1,6 @@
 [#InfluentialPerson]
 
-# Dr. J. Lanipekun
+# Dr. J. Pekulani
 
 *Voice actor notes* - A calculated individual who loves debating on the philosophies of life. He was interested in science but often found himself longing for something more, something he has been missing his whole life. A mist of uncertainty surrounds his every action.
 
