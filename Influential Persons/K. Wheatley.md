@@ -13,7 +13,7 @@
 
 ## Biography
 
-Built his own bike at 9. Established his own noodle shop at 13, and finalized designs for [The Cloaking Vest](../Items/Armour/Cloaking%20Vest.md), [Krasmus](K.%20Wheatley.md) is no stranger to tinkering. He joined [The Foundation](../Factions/The%20Foundation.md) willingly, with the promise that they will give him all the resources for his future projects, if he also creates things for them. [Avery Meadows](Avery%20Meadows.md) recruited [Kye](K.%20Wheatley.md) when she found him intercepting [The Foundation](../Factions/The%20Foundation.md) transmissions.
+Built his own bike at 9. Established his own noodle shop at 13, and finalized designs for [The Cloaking Vest](../Items/Armour/Cloaking%20Vest.md), [Kye](K.%20Wheatley.md) is no stranger to tinkering. He joined [The Foundation](../Factions/The%20Foundation.md) willingly, with the promise that they will give him all the resources for his future projects, if he also creates things for them. [Avery Meadows](Avery%20Meadows.md) recruited [Kye](K.%20Wheatley.md) when she found him intercepting [The Foundation](../Factions/The%20Foundation.md) transmissions.
 
 He got away with that by explicitly showing them how to fix it, and since then he has been the lead technology and research officer in [The Foundation](../Factions/The%20Foundation.md).
 
