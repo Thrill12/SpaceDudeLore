@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "84fb0966bbe032c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Noodle Station.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/The Black Diamond.md",
+                "file": "Locations/Noodle Station.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,10 +157,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f8eb79a96279acb9",
+  "active": "84fb0966bbe032c5",
   "lastOpenFiles": [
-    "Factions/Frost Tips.md",
     "Locations/The Black Diamond.md",
+    "Factions/Frost Tips.md",
     "Locations/The Eastern Territory Penitentiary.md",
     "Locations/The Astro-Academy.md",
     "Locations/Interplanetary Botanical Association.md",
