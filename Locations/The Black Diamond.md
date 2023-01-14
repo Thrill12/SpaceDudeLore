@@ -4,7 +4,7 @@
 
 ## Summary
 
-Acts as the 
+Outpost for [Frost Tips](../Factions/Frost%20Tips.md)
 
 A secret hideout in space, a cloaked asteroid station that serves as a mobile base of operations. The station is located in a remote and uncharted area of space, far from the prying eyes of [The Union](../Factions/The%20Union.md) and [The Foundation](../Factions/The%20Foundation.md).
 
