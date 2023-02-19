@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Noodle Station.md",
+                "file": "Large Events/Thiyotis Detonation.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Noodle Station.md",
+                "file": "Large Events/Thiyotis Detonation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,6 +159,7 @@
   },
   "active": "84fb0966bbe032c5",
   "lastOpenFiles": [
+    "Locations/Noodle Station.md",
     "Locations/The Black Diamond.md",
     "Factions/Frost Tips.md",
     "Locations/The Eastern Territory Penitentiary.md",
@@ -167,7 +168,6 @@
     "Influential Persons/K. Wheatley.md",
     "Influential Persons/The Chief Council.md",
     "Influential Persons/Avery Meadows.md",
-    "Influential Persons/Rick Clementine.md",
-    "Influential Persons/Dr. J. Pekulani.md"
+    "Influential Persons/Rick Clementine.md"
   ]
 }
