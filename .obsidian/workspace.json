@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "91a0da312e8e9dae",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -157,7 +167,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "84fb0966bbe032c5",
+  "active": "91a0da312e8e9dae",
   "lastOpenFiles": [
     "Influential Persons/Centurion.md",
     "Influential Persons/Dr S. Debreto.md",
