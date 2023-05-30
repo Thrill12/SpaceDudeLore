@@ -34,22 +34,20 @@
           {
             "id": "84fb0966bbe032c5",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Influential Persons/Barteus Cromley.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true
             }
           },
           {
-            "id": "91a0da312e8e9dae",
+            "id": "482f225e2e6dc435",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.1.16"
+                "currentVersion": "1.2.7"
               }
             }
           }
@@ -91,6 +89,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "fde71f1cab80f1a9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -112,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Influential Persons/Barteus Cromley.md",
+                "file": "Factions/Frost Tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,8 +173,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "91a0da312e8e9dae",
+  "active": "482f225e2e6dc435",
   "lastOpenFiles": [
+    "Influential Persons/Barteus Cromley.md",
     "Influential Persons/Centurion.md",
     "Influential Persons/Dr S. Debreto.md",
     "Influential Persons/Dr. G. Wood.md",
