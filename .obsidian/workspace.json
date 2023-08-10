@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Legends/Payne Jones.md",
+                "file": "Physics/Quantum Wave.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Legends/Payne Jones.md",
+                "file": "Physics/Quantum Wave.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,8 +187,10 @@
   },
   "active": "bb6e0e2fbc08c7cc",
   "lastOpenFiles": [
-    "Legends/Nova Superweapon.md",
+    "Factions/The Union.md",
     "Legends/Payne Jones.md",
+    "Main Story",
+    "Legends/Nova Superweapon.md",
     "README.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
