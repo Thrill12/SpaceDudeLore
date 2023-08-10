@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Story/Events I want to happen.md",
+                "file": "Main Story/Chapter 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Story/Events I want to happen.md",
+                "file": "Main Story/Chapter 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,9 +187,10 @@
   },
   "active": "bb6e0e2fbc08c7cc",
   "lastOpenFiles": [
+    "Main Story/Events I want to happen.md",
+    "Main Story/Chapter 1.md",
     "Legends/Payne Jones.md",
     "Locations/Fantasia.md",
-    "Main Story/Events I want to happen.md",
     "Legends/Nova Superweapon.md",
     "Items/Weapons/Energy/Magnum Opus.md",
     "Items/Weapons/Energy/Polaroid Gun.md",
@@ -214,7 +215,6 @@
     "Influential Persons/Dr. G. Wood.md",
     "Influential Persons/Dr. J. Pekulani.md",
     "Influential Persons/Eli Murray.md",
-    "Influential Persons/K. Wheatley.md",
-    "Influential Persons/The Chief Council.md"
+    "Influential Persons/K. Wheatley.md"
   ]
 }
