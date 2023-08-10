@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Quantum Wave.md",
+                "file": "Factions/The Union.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Quantum Wave.md",
+                "file": "Factions/The Union.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,15 @@
   },
   "active": "bb6e0e2fbc08c7cc",
   "lastOpenFiles": [
+    "Factions/The Foundation.md",
+    "Factions/New Earth Republic.md",
+    "Factions/Kaias.md",
+    "Factions/Frost Tips.md",
+    "Factions/Dynasty Roses.md",
+    "Species/Flora/Glow Cane.md",
+    "Planets/Cazion.md",
     "Factions/The Union.md",
+    "Physics/Quantum Wave.md",
     "Legends/Payne Jones.md",
     "Main Story",
     "Legends/Nova Superweapon.md",
@@ -203,7 +211,6 @@
     "Influential Persons/K. Wheatley.md",
     "Influential Persons/The Chief Council.md",
     "Influential Persons/Avery Meadows.md",
-    "Planets/Volla E539.md",
-    "Planets/Cazion.md"
+    "Planets/Volla E539.md"
   ]
 }

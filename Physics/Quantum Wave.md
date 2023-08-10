@@ -10,4 +10,4 @@ First discovered in [2312](../Notable%20Years/2312.md) with [The Dawn](../Large%
 
 [Quantum Wave](Quantum%20Wave.md) revolves around quantum entanglement. The sub-atomic particles that make up any and every object under the sun are paired together with the [Aspite](../Materials/Aspite.md) in place of where we want the object to be transported to.
 
-However, FTL is not the only process that uses this technology. Brain Computer Interfacing was developed in secret in the backwater labs of [The Union](../Factions/The%20Union.md)
+However, FTL is not the only process that uses this technology. Brain Computer Interfacing was developed in secret in the backwater labs of [The Union](../Factions/The%20Union.md) in order to brainwash their new recruits.

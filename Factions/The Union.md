@@ -20,4 +20,4 @@ Recently, they have been investigating energy spikes from the galaxy's central b
 
 ### Recruitment process
 
-The Union has a unique recruitment process - they use [Quantum Wave](../Physics/Quantum%20Wave.md) technology to brainwash new recruits into thinking that the Union is correct in every aspect. It is a modern form of conscription, never before seen. The first mention of this 
+The Union has a unique recruitment process - they use [Quantum Wave](../Physics/Quantum%20Wave.md) technology to brainwash new recruits into thinking that the Union is correct in every aspect. It is a modern form of conscription, never before seen. The first mention of this was around 20 years after The Union's formation, yet it was never heard about ever since and people have forgotten.
