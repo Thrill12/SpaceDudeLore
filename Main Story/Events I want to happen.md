@@ -1,0 +1,2 @@
+[Frost Tips](../Factions/Frost%20Tips.md) could team up with the [Kaia](../Species/Fauna/Kaia.md), it would fit both their savage natures.
+[The Union](../Factions/The%20Union.md) trying to create a weapon of mass destruction using 

@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/The Union.md",
+                "file": "Main Story/Events I want to happen.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/The Union.md",
+                "file": "Main Story/Events I want to happen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,6 +187,11 @@
   },
   "active": "bb6e0e2fbc08c7cc",
   "lastOpenFiles": [
+    "Physics/Quantum Wave.md",
+    "Main Story/Events I want to happen.md",
+    "Materials/Aspite.md",
+    "Large Events/The Dawn.md",
+    "Factions/The Union.md",
     "Factions/The Foundation.md",
     "Factions/New Earth Republic.md",
     "Factions/Kaias.md",
@@ -194,8 +199,6 @@
     "Factions/Dynasty Roses.md",
     "Species/Flora/Glow Cane.md",
     "Planets/Cazion.md",
-    "Factions/The Union.md",
-    "Physics/Quantum Wave.md",
     "Legends/Payne Jones.md",
     "Main Story",
     "Legends/Nova Superweapon.md",
