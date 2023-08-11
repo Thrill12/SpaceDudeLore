@@ -5,3 +5,5 @@ Once the player goes to that place, they only find a computer in an abandoned lo
 This next location will be a type of lure location, where the player is sent with their pistol, they have to defeat their way through the compound, only to realize that the leader of that compound actually created that note that lead them there. The player's exceptional ability has been noted by The Foundation (At this time, player still doesn't know anything about the foundation) and they sent to recruit them.
 
 They offer for the player to be a double agent for them - this is where the first diverging path starts - player can either take the double agent route to keep feeding information to the secret organization they just met, but also do missions for the union, or they could choose to just carry on with the union missions.
+
+John Strong is a former friend of the player character. They were working on the same team back in the day, but John Strong left the detective role for a local police officer. He has been bought by Payne Jones, but secretly still wants to do good and help people.
