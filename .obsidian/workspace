@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Main Story/Chapter 1.md",
+            "file": "Legends/Payne Jones.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Story/Chapter 1.md",
+                "file": "Legends/Payne Jones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +115,7 @@
   },
   "active": "7e581cd8baed8b13",
   "lastOpenFiles": [
+    "Legends/Payne Jones.md",
     "Main Story/Chapter 1.md",
     "Main Story/Events I want to happen.md",
     "Locations/The Northern Mental Institute.md",
@@ -123,7 +124,6 @@
     "Locations/Dr S. Debreto's Laboratory.md",
     "Influential Persons/Rick Clementine.md",
     "Influential Persons/K. Wheatley.md",
-    "Influential Persons/Jade Heath.md",
-    "Influential Persons/Eli Murray.md"
+    "Influential Persons/Jade Heath.md"
   ]
 }
