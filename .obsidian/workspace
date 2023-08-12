@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7e581cd8baed8b13",
+        "id": "91bb9dababe527a9",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Main Story/Chapter 1.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Story/Chapter 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +109,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7e581cd8baed8b13",
+  "active": "91bb9dababe527a9",
   "lastOpenFiles": [
     "Main Story/Chapter 1.md",
     "Legends/Payne Jones.md",

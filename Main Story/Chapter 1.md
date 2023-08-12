@@ -12,3 +12,7 @@ At the end of demo, player discovers that John Strong is actually turned against
 
 - if you go against him, he will be the demo's final boss. 
 - if you go against the Union, the final boss will be a missile focused mech, located at Cyberford Depot, which is where the Union manufactures a lot of their weapons.
+
+## Side quests
+
+A side quest the player will be able to do will be to find the 13 missing persons that John Strong mentions in his path. This quest will only appear if the player does some specific dialogue paths. This will mostly be an information gathering quest in order to come to the right location. 
