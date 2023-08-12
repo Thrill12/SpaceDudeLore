@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Main Story/Chapter 1.md",
+            "file": "Legends/Payne Jones.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Story/Chapter 1.md",
+                "file": "Legends/Payne Jones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +115,7 @@
   },
   "active": "91bb9dababe527a9",
   "lastOpenFiles": [
+    "Legends/Payne Jones.md",
     "Main Story/Chapter 1.md",
     "Influential Persons/Eli Murray.md",
     "Influential Persons/John Strong.md",
@@ -122,7 +123,6 @@
     "Influential Persons/Avery Meadows.md",
     "Influential Persons/Barteus Cromley.md",
     "Legends/Nova Superweapon.md",
-    "Legends/Payne Jones.md",
     "Influential Persons/Player.md",
     "Main Story/Events I want to happen.md"
   ]
