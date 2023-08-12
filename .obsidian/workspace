@@ -7,8 +7,11 @@
         "id": "91bb9dababe527a9",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Influential Persons/Untitled.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Influential Persons/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,15 +115,15 @@
   },
   "active": "91bb9dababe527a9",
   "lastOpenFiles": [
+    "Influential Persons/Untitled.md",
     "Main Story/Chapter 1.md",
+    "Influential Persons/Player.md",
     "Legends/Payne Jones.md",
     "Main Story/Events I want to happen.md",
     "Locations/The Northern Mental Institute.md",
     "Locations/Fantasia.md",
     "Locations/Interplanetary Botanical Association.md",
     "Locations/Dr S. Debreto's Laboratory.md",
-    "Influential Persons/Rick Clementine.md",
-    "Influential Persons/K. Wheatley.md",
-    "Influential Persons/Jade Heath.md"
+    "Influential Persons/Rick Clementine.md"
   ]
 }

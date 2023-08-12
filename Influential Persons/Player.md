@@ -4,4 +4,4 @@
 
 ## Summary
 
-The player will discover that they are a part of a previously thought to be extinct [Huross](Species/Fauna/Huross.md). They are an abnormally powerful one however, and will quickly realize that hey can harness the [Huross](Species/Fauna/Huross.md) true potential with the artifacts that other [Huross](Species/Fauna/Huross.md) have made.
+The player starts off by being a [Union](../Factions/The%20Union.md) Representative (as in, a detective/hitman for [The Union](../Factions/The%20Union.md)). Their first task is to kill [Payne Jones](../Legends/Payne%20Jones.md).
