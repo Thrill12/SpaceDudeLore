@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Influential Persons/Untitled.md",
+            "file": "Main Story/Chapter 1.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Influential Persons/Untitled.md",
+                "file": "Main Story/Chapter 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +115,15 @@
   },
   "active": "91bb9dababe527a9",
   "lastOpenFiles": [
-    "Influential Persons/Untitled.md",
     "Main Story/Chapter 1.md",
-    "Influential Persons/Player.md",
+    "Influential Persons/Eli Murray.md",
+    "Influential Persons/John Strong.md",
+    "Influential Persons/The Chief Council.md",
+    "Influential Persons/Avery Meadows.md",
+    "Influential Persons/Barteus Cromley.md",
+    "Legends/Nova Superweapon.md",
     "Legends/Payne Jones.md",
-    "Main Story/Events I want to happen.md",
-    "Locations/The Northern Mental Institute.md",
-    "Locations/Fantasia.md",
-    "Locations/Interplanetary Botanical Association.md",
-    "Locations/Dr S. Debreto's Laboratory.md",
-    "Influential Persons/Rick Clementine.md"
+    "Influential Persons/Player.md",
+    "Main Story/Events I want to happen.md"
   ]
 }

@@ -6,7 +6,7 @@ This next location will be a type of lure location, where the player is sent wit
 
 They offer for the player to be a double agent for them - this is where the first diverging path starts - player can either take the double agent route to keep feeding information to the secret organization they just met, but also do missions for the union, or they could choose to just carry on with the union missions.
 
- is a former friend of the player character. They were working on the same team back in the day, but John Strong left the detective role for a local police officer. He has been bought by Payne Jones, but secretly still wants to do good and help people. Player betrayed John Strong on a case, which is why they had a falling out - player is here as a last resort.
+[John Strong](../Influential%20Persons/John%20Strong.md) is a former friend of the player character. They were working on the same team back in the day, but John Strong left the detective role for a local police officer. He has been bought by [Payne Jones](../Legends/Payne%20Jones.md). Player betrayed John Strong on a case, which is why they had a falling out - player is here as a last resort.
 
 At the end of demo, player discovers that John Strong is actually turned against the Union, and you will have a choice of either fighting him and keeping with the Union, or joining him and going against the union.
 
