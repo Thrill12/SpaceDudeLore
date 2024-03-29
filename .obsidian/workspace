@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Large Events/Thiyotis Detonation.md",
+            "file": "Factions/New Earth Republic.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Large Events/Thiyotis Detonation.md",
+                "file": "Factions/New Earth Republic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +115,8 @@
   },
   "active": "91bb9dababe527a9",
   "lastOpenFiles": [
+    "Factions/New Earth Republic.md",
+    "Factions/Kaias.md",
     "Large Events/Thiyotis Detonation.md",
     "Notable Years/2312.md",
     "Notable Years/2315.md",
@@ -122,8 +124,6 @@
     "Notable Years/2689.md",
     "Factions/The Union.md",
     "Legends/Payne Jones.md",
-    "Main Story/Chapter 1.md",
-    "Influential Persons/Eli Murray.md",
-    "Influential Persons/John Strong.md"
+    "Main Story/Chapter 1.md"
   ]
 }
