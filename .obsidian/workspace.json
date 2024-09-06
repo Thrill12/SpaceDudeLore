@@ -11,8 +11,12 @@
             "id": "d3861b0a0941a2d8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Items/Armour/TL5 Suit.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Story/Chapter 1.md",
+                "file": "Items/Armour/TL5 Suit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,8 +140,25 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "85ae77e1ec04c2b2",
+  "active": "d3861b0a0941a2d8",
   "lastOpenFiles": [
+    "Items/Armour/Cloaking Vest.md",
+    "Influential Persons/The Chief Council.md",
+    "Influential Persons/Rick Clementine.md",
+    "Influential Persons/Player.md",
+    "Influential Persons/K. Wheatley.md",
+    "Influential Persons/John Strong.md",
+    "Influential Persons/Jade Heath.md",
+    "Influential Persons/Eli Murray.md",
+    "Influential Persons/Dr S. Debreto.md",
+    "Influential Persons/Avery Meadows.md",
+    "Influential Persons/Barteus Cromley.md",
+    "Influential Persons/Centurion.md",
+    "Influential Persons/Dr. G. Wood.md",
+    "Influential Persons/Dr. J. Pekulani.md",
+    "Factions/The Union.md",
+    "Factions/The Foundation.md",
+    "Factions/New Earth Republic.md",
     "Main Story/Events I want to happen.md",
     "Main Story/Chapter 1.md",
     "Legends/Payne Jones.md",
@@ -147,25 +168,8 @@
     "Items/Weapons/Energy/Polaroid Gun.md",
     "Physics/Quantum Wave.md",
     "Materials/Aspite.md",
-    "Large Events/The Dawn.md",
-    "Factions/The Union.md",
-    "Factions/The Foundation.md",
-    "Factions/New Earth Republic.md",
-    "Factions/Kaias.md",
-    "Factions/Frost Tips.md",
-    "Factions/Dynasty Roses.md",
-    "Species/Flora/Glow Cane.md",
-    "Planets/Cazion.md",
     "Main Story",
-    "README.md",
     "Untitled.canvas",
-    "Untitled 1.canvas",
-    "Influential Persons/Barteus Cromley.md",
-    "Influential Persons/Centurion.md",
-    "Influential Persons/Dr S. Debreto.md",
-    "Influential Persons/Dr. G. Wood.md",
-    "Influential Persons/Dr. J. Pekulani.md",
-    "Influential Persons/Eli Murray.md",
-    "Influential Persons/K. Wheatley.md"
+    "Untitled 1.canvas"
   ]
 }
